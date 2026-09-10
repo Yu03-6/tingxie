@@ -1,0 +1,974 @@
+{
+  "id": "g5-upper",
+  "name": "五年级上册",
+  "edition": "2013审定本",
+  "sourceId": "pep-en-g5-upper",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1 · What's he like?",
+      "items": [
+        {
+          "text": "old",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0091.mp3"
+        },
+        {
+          "text": "young",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0443.mp3"
+        },
+        {
+          "text": "funny",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0444.mp3"
+        },
+        {
+          "text": "kind",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0244.mp3"
+        },
+        {
+          "text": "strict",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0445.mp3"
+        },
+        {
+          "text": "polite",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0446.mp3"
+        },
+        {
+          "text": "hard-working",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0447.mp3"
+        },
+        {
+          "text": "helpful",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0360.mp3"
+        },
+        {
+          "text": "clever",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0448.mp3"
+        },
+        {
+          "text": "shy",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0449.mp3"
+        },
+        {
+          "text": "know",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0450.mp3"
+        },
+        {
+          "text": "our",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0451.mp3"
+        },
+        {
+          "text": "Ms",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0283.mp3"
+        },
+        {
+          "text": "will",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0452.mp3"
+        },
+        {
+          "text": "sometimes",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0453.mp3"
+        },
+        {
+          "text": "robot",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0454.mp3"
+        },
+        {
+          "text": "him",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0455.mp3"
+        },
+        {
+          "text": "speak",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0284.mp3"
+        },
+        {
+          "text": "finish",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "1",
+          "audio": "assets/audio/word-0456.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2 · My week",
+      "items": [
+        {
+          "text": "Monday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0457.mp3"
+        },
+        {
+          "text": "Tuesday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0458.mp3"
+        },
+        {
+          "text": "Wednesday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0459.mp3"
+        },
+        {
+          "text": "Thursday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0460.mp3"
+        },
+        {
+          "text": "Friday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0461.mp3"
+        },
+        {
+          "text": "Saturday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0462.mp3"
+        },
+        {
+          "text": "Sunday",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0463.mp3"
+        },
+        {
+          "text": "weekend",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0464.mp3"
+        },
+        {
+          "text": "wash",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0359.mp3"
+        },
+        {
+          "text": "wash my clothes",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0465.mp3"
+        },
+        {
+          "text": "watch",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0350.mp3"
+        },
+        {
+          "text": "watch TV",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0466.mp3"
+        },
+        {
+          "text": "do",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0467.mp3"
+        },
+        {
+          "text": "do homework",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0468.mp3"
+        },
+        {
+          "text": "read",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0247.mp3"
+        },
+        {
+          "text": "read books",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0469.mp3"
+        },
+        {
+          "text": "play",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0249.mp3"
+        },
+        {
+          "text": "play football",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0470.mp3"
+        },
+        {
+          "text": "cooking",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0471.mp3"
+        },
+        {
+          "text": "often",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0472.mp3"
+        },
+        {
+          "text": "park",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0257.mp3"
+        },
+        {
+          "text": "tired",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0230.mp3"
+        },
+        {
+          "text": "sport",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0264.mp3"
+        },
+        {
+          "text": "play sports",
+          "kind": "words",
+          "pdfPage": 78,
+          "lesson": "2",
+          "audio": "assets/audio/word-0473.mp3"
+        },
+        {
+          "text": "should",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "2",
+          "audio": "assets/audio/word-0474.mp3"
+        },
+        {
+          "text": "every",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "2",
+          "audio": "assets/audio/word-0475.mp3"
+        },
+        {
+          "text": "day",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "2",
+          "audio": "assets/audio/word-0476.mp3"
+        },
+        {
+          "text": "schedule",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "2",
+          "audio": "assets/audio/word-0477.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3 · What would you like?",
+      "items": [
+        {
+          "text": "sandwich",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0478.mp3"
+        },
+        {
+          "text": "salad",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0434.mp3"
+        },
+        {
+          "text": "hamburger",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0479.mp3"
+        },
+        {
+          "text": "ice cream",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0480.mp3"
+        },
+        {
+          "text": "tea",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0481.mp3"
+        },
+        {
+          "text": "fresh",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0482.mp3"
+        },
+        {
+          "text": "healthy",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0185.mp3"
+        },
+        {
+          "text": "delicious",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0426.mp3"
+        },
+        {
+          "text": "hot",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0287.mp3"
+        },
+        {
+          "text": "sweet",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0483.mp3"
+        },
+        {
+          "text": "drink",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0484.mp3"
+        },
+        {
+          "text": "thirsty",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0485.mp3"
+        },
+        {
+          "text": "favourite",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0267.mp3"
+        },
+        {
+          "text": "food",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0425.mp3"
+        },
+        {
+          "text": "dear",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0392.mp3"
+        },
+        {
+          "text": "onion",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "3",
+          "audio": "assets/audio/word-0486.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4 · What can you do?",
+      "items": [
+        {
+          "text": "sing",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0146.mp3"
+        },
+        {
+          "text": "song",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0151.mp3"
+        },
+        {
+          "text": "sing English songs",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0487.mp3"
+        },
+        {
+          "text": "play the pipa",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0488.mp3"
+        },
+        {
+          "text": "kung fu",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0489.mp3"
+        },
+        {
+          "text": "do kung fu",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0490.mp3"
+        },
+        {
+          "text": "dance",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0147.mp3"
+        },
+        {
+          "text": "draw",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0088.mp3"
+        },
+        {
+          "text": "cartoon",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0491.mp3"
+        },
+        {
+          "text": "draw cartoons",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0492.mp3"
+        },
+        {
+          "text": "cook",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0232.mp3"
+        },
+        {
+          "text": "swim",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0305.mp3"
+        },
+        {
+          "text": "play basketball",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0493.mp3"
+        },
+        {
+          "text": "ping-pong",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0494.mp3"
+        },
+        {
+          "text": "play ping-pong",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0495.mp3"
+        },
+        {
+          "text": "speak English",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0496.mp3"
+        },
+        {
+          "text": "we'll",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0497.mp3"
+        },
+        {
+          "text": "party",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0498.mp3"
+        },
+        {
+          "text": "next",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0499.mp3"
+        },
+        {
+          "text": "wonderful",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0500.mp3"
+        },
+        {
+          "text": "learn",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0174.mp3"
+        },
+        {
+          "text": "any",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0405.mp3"
+        },
+        {
+          "text": "problem",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0501.mp3"
+        },
+        {
+          "text": "no problem",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0502.mp3"
+        },
+        {
+          "text": "want",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0381.mp3"
+        },
+        {
+          "text": "send",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0503.mp3"
+        },
+        {
+          "text": "email",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0504.mp3"
+        },
+        {
+          "text": "at",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "4",
+          "audio": "assets/audio/word-0195.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5 · There is a big bed",
+      "items": [
+        {
+          "text": "clock",
+          "kind": "words",
+          "pdfPage": 79,
+          "lesson": "5",
+          "audio": "assets/audio/word-0382.mp3"
+        },
+        {
+          "text": "plant",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0069.mp3"
+        },
+        {
+          "text": "bottle",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0505.mp3"
+        },
+        {
+          "text": "water bottle",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0506.mp3"
+        },
+        {
+          "text": "bike",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0507.mp3"
+        },
+        {
+          "text": "photo",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0269.mp3"
+        },
+        {
+          "text": "front",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0508.mp3"
+        },
+        {
+          "text": "in front of",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0509.mp3"
+        },
+        {
+          "text": "between",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0510.mp3"
+        },
+        {
+          "text": "above",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0511.mp3"
+        },
+        {
+          "text": "beside",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0512.mp3"
+        },
+        {
+          "text": "behind",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0513.mp3"
+        },
+        {
+          "text": "there",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0255.mp3"
+        },
+        {
+          "text": "grandparent",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0514.mp3"
+        },
+        {
+          "text": "their",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0304.mp3"
+        },
+        {
+          "text": "house",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0515.mp3"
+        },
+        {
+          "text": "lot",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0516.mp3"
+        },
+        {
+          "text": "lots of",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0517.mp3"
+        },
+        {
+          "text": "flower",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0067.mp3"
+        },
+        {
+          "text": "move",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0518.mp3"
+        },
+        {
+          "text": "dirty",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0519.mp3"
+        },
+        {
+          "text": "everywhere",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0520.mp3"
+        },
+        {
+          "text": "mouse",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0413.mp3"
+        },
+        {
+          "text": "live",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0521.mp3"
+        },
+        {
+          "text": "nature",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "5",
+          "audio": "assets/audio/word-0522.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6 · In a nature park",
+      "items": [
+        {
+          "text": "forest",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0523.mp3"
+        },
+        {
+          "text": "river",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0524.mp3"
+        },
+        {
+          "text": "lake",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0525.mp3"
+        },
+        {
+          "text": "mountain",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0526.mp3"
+        },
+        {
+          "text": "hill",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0527.mp3"
+        },
+        {
+          "text": "tree",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0071.mp3"
+        },
+        {
+          "text": "bridge",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0528.mp3"
+        },
+        {
+          "text": "building",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0529.mp3"
+        },
+        {
+          "text": "village",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0530.mp3"
+        },
+        {
+          "text": "house",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0515.mp3"
+        },
+        {
+          "text": "boating",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0531.mp3"
+        },
+        {
+          "text": "go boating",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0532.mp3"
+        },
+        {
+          "text": "aren't",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0533.mp3"
+        },
+        {
+          "text": "rabbit",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0041.mp3"
+        },
+        {
+          "text": "high",
+          "kind": "words",
+          "pdfPage": 80,
+          "lesson": "6",
+          "audio": "assets/audio/word-0534.mp3"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "words": 131,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0
+  },
+  "source": {
+    "url": "https://media.githubusercontent.com/media/LYUGUISONG/Textbooks/main/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%E8%8B%B1%E8%AF%AD%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "repository": "https://github.com/LYUGUISONG/Textbooks",
+    "method": "Local OCR with appendix comparison and page-image corrections",
+    "note": "Edition is verified per volume; current Chengdu school adoption is not verified."
+  }
+}

@@ -1,0 +1,6277 @@
+{
+  "id": "g3-upper",
+  "name": "三年级上册",
+  "edition": "2024审定修订本",
+  "language": "zh-CN",
+  "sourceId": "unified-zh-g3-upper",
+  "units": [
+    {
+      "id": "u1",
+      "name": "第1单元",
+      "items": [
+        {
+          "text": "山坡",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0850.mp3"
+        },
+        {
+          "text": "学校",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0851.mp3"
+        },
+        {
+          "text": "飘扬",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0852.mp3"
+        },
+        {
+          "text": "课文",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0853.mp3"
+        },
+        {
+          "text": "声音",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0854.mp3"
+        },
+        {
+          "text": "招引",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0855.mp3"
+        },
+        {
+          "text": "热闹",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0856.mp3"
+        },
+        {
+          "text": "古老",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0857.mp3"
+        },
+        {
+          "text": "粗壮",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0858.mp3"
+        },
+        {
+          "text": "枝干",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0859.mp3"
+        },
+        {
+          "text": "洁白",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0860.mp3"
+        },
+        {
+          "text": "轰响",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0861.mp3"
+        },
+        {
+          "text": "阵雨",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0862.mp3"
+        },
+        {
+          "text": "湿润",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0863.mp3"
+        },
+        {
+          "text": "风笛",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0864.mp3"
+        },
+        {
+          "text": "狂欢",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0865.mp3"
+        },
+        {
+          "text": "觉得",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0866.mp3"
+        },
+        {
+          "text": "功课",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0867.mp3"
+        },
+        {
+          "text": "放学",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0868.mp3"
+        },
+        {
+          "text": "老师",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0869.mp3"
+        },
+        {
+          "text": "急急忙忙",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0870.mp3"
+        },
+        {
+          "text": "坡",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0871.mp3"
+        },
+        {
+          "text": "球",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0872.mp3"
+        },
+        {
+          "text": "招",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0873.mp3"
+        },
+        {
+          "text": "呼",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0874.mp3"
+        },
+        {
+          "text": "飘",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0875.mp3"
+        },
+        {
+          "text": "扬",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0876.mp3"
+        },
+        {
+          "text": "读",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0877.mp3"
+        },
+        {
+          "text": "热",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0878.mp3"
+        },
+        {
+          "text": "闹",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0879.mp3"
+        },
+        {
+          "text": "粗",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0880.mp3"
+        },
+        {
+          "text": "壮",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0881.mp3"
+        },
+        {
+          "text": "洁",
+          "kind": "writing",
+          "lesson": "1",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0882.mp3"
+        },
+        {
+          "text": "轰",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0883.mp3"
+        },
+        {
+          "text": "湿",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0884.mp3"
+        },
+        {
+          "text": "润",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0885.mp3"
+        },
+        {
+          "text": "笛",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0886.mp3"
+        },
+        {
+          "text": "狂",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0887.mp3"
+        },
+        {
+          "text": "功",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0888.mp3"
+        },
+        {
+          "text": "罚",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0889.mp3"
+        },
+        {
+          "text": "互",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0890.mp3"
+        },
+        {
+          "text": "碰",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0891.mp3"
+        },
+        {
+          "text": "黄",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0892.mp3"
+        },
+        {
+          "text": "急",
+          "kind": "writing",
+          "lesson": "2",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0893.mp3"
+        },
+        {
+          "text": "绒",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0894.mp3"
+        },
+        {
+          "text": "昂",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0895.mp3"
+        },
+        {
+          "text": "扬",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0876.mp3"
+        },
+        {
+          "text": "凤",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0896.mp3"
+        },
+        {
+          "text": "墙",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0897.mp3"
+        },
+        {
+          "text": "晃",
+          "kind": "recognition",
+          "lesson": "1",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0898.mp3"
+        },
+        {
+          "text": "轰",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0883.mp3"
+        },
+        {
+          "text": "湿",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0884.mp3"
+        },
+        {
+          "text": "荒",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0899.mp3"
+        },
+        {
+          "text": "笛",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0886.mp3"
+        },
+        {
+          "text": "罚",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0889.mp3"
+        },
+        {
+          "text": "假",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-0900.mp3"
+        },
+        {
+          "text": "臂",
+          "kind": "recognition",
+          "lesson": "2",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0901.mp3"
+        },
+        {
+          "text": "诵",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0902.mp3"
+        },
+        {
+          "text": "例",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0903.mp3"
+        },
+        {
+          "text": "糊",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0904.mp3"
+        },
+        {
+          "text": "戒",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0905.mp3"
+        },
+        {
+          "text": "厉",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0906.mp3"
+        },
+        {
+          "text": "详",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0907.mp3"
+        },
+        {
+          "text": "挨",
+          "kind": "recognition",
+          "lesson": "3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0908.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "第2单元",
+      "items": [
+        {
+          "text": "秋风",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0909.mp3"
+        },
+        {
+          "text": "放晴",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0910.mp3"
+        },
+        {
+          "text": "明朗",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0911.mp3"
+        },
+        {
+          "text": "地面",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0912.mp3"
+        },
+        {
+          "text": "亮晶晶",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0913.mp3"
+        },
+        {
+          "text": "落叶",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0914.mp3"
+        },
+        {
+          "text": "图案",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0915.mp3"
+        },
+        {
+          "text": "闪闪发光",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0916.mp3"
+        },
+        {
+          "text": "尽头",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0917.mp3"
+        },
+        {
+          "text": "排列",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0918.mp3"
+        },
+        {
+          "text": "规则",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0919.mp3"
+        },
+        {
+          "text": "凌乱",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0920.mp3"
+        },
+        {
+          "text": "歌唱",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0921.mp3"
+        },
+        {
+          "text": "迟到",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0922.mp3"
+        },
+        {
+          "text": "秋天",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0923.mp3"
+        },
+        {
+          "text": "清凉",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0924.mp3"
+        },
+        {
+          "text": "炎热",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0925.mp3"
+        },
+        {
+          "text": "枫树",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0926.mp3"
+        },
+        {
+          "text": "邮票",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0927.mp3"
+        },
+        {
+          "text": "凉爽",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0928.mp3"
+        },
+        {
+          "text": "果树",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0929.mp3"
+        },
+        {
+          "text": "菊花",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0930.mp3"
+        },
+        {
+          "text": "仙子",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0931.mp3"
+        },
+        {
+          "text": "频频",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0932.mp3"
+        },
+        {
+          "text": "气味",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0933.mp3"
+        },
+        {
+          "text": "香甜",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0934.mp3"
+        },
+        {
+          "text": "松果",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0935.mp3"
+        },
+        {
+          "text": "丰收",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0936.mp3"
+        },
+        {
+          "text": "庭",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0937.mp3"
+        },
+        {
+          "text": "相",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0938.mp3"
+        },
+        {
+          "text": "未",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0939.mp3"
+        },
+        {
+          "text": "寒",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0940.mp3"
+        },
+        {
+          "text": "径",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0941.mp3"
+        },
+        {
+          "text": "斜",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0942.mp3"
+        },
+        {
+          "text": "枫",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0943.mp3"
+        },
+        {
+          "text": "霜",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0944.mp3"
+        },
+        {
+          "text": "挑",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0945.mp3"
+        },
+        {
+          "text": "深",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0946.mp3"
+        },
+        {
+          "text": "落",
+          "kind": "writing",
+          "lesson": "4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0947.mp3"
+        },
+        {
+          "text": "朗",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0948.mp3"
+        },
+        {
+          "text": "晶",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0949.mp3"
+        },
+        {
+          "text": "珠",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0950.mp3"
+        },
+        {
+          "text": "粘",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0951.mp3"
+        },
+        {
+          "text": "印",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0952.mp3"
+        },
+        {
+          "text": "案",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0953.mp3"
+        },
+        {
+          "text": "展",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0954.mp3"
+        },
+        {
+          "text": "列",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0955.mp3"
+        },
+        {
+          "text": "规",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0956.mp3"
+        },
+        {
+          "text": "则",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0957.mp3"
+        },
+        {
+          "text": "凌",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0958.mp3"
+        },
+        {
+          "text": "乱",
+          "kind": "writing",
+          "lesson": "5",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0959.mp3"
+        },
+        {
+          "text": "凉",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0960.mp3"
+        },
+        {
+          "text": "杏",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0961.mp3"
+        },
+        {
+          "text": "枚",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0962.mp3"
+        },
+        {
+          "text": "邮",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0963.mp3"
+        },
+        {
+          "text": "票",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0964.mp3"
+        },
+        {
+          "text": "爽",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0965.mp3"
+        },
+        {
+          "text": "挤",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0966.mp3"
+        },
+        {
+          "text": "争",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0967.mp3"
+        },
+        {
+          "text": "菊",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0968.mp3"
+        },
+        {
+          "text": "频",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0969.mp3"
+        },
+        {
+          "text": "勾",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0970.mp3"
+        },
+        {
+          "text": "挖",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0971.mp3"
+        },
+        {
+          "text": "油",
+          "kind": "writing",
+          "lesson": "6",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0972.mp3"
+        },
+        {
+          "text": "庭",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0937.mp3"
+        },
+        {
+          "text": "未",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0939.mp3"
+        },
+        {
+          "text": "磨",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-0973.mp3"
+        },
+        {
+          "text": "斜",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0942.mp3"
+        },
+        {
+          "text": "萧",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0974.mp3"
+        },
+        {
+          "text": "挑",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-0945.mp3"
+        },
+        {
+          "text": "促",
+          "kind": "recognition",
+          "lesson": "4",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0975.mp3"
+        },
+        {
+          "text": "粘",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0951.mp3"
+        },
+        {
+          "text": "印",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0952.mp3"
+        },
+        {
+          "text": "列",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0955.mp3"
+        },
+        {
+          "text": "凌",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0958.mp3"
+        },
+        {
+          "text": "增",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0976.mp3"
+        },
+        {
+          "text": "棕",
+          "kind": "recognition",
+          "lesson": "5",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0977.mp3"
+        },
+        {
+          "text": "钥",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0978.mp3"
+        },
+        {
+          "text": "匙",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0979.mp3"
+        },
+        {
+          "text": "缤",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0980.mp3"
+        },
+        {
+          "text": "枚",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0962.mp3"
+        },
+        {
+          "text": "邮",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0963.mp3"
+        },
+        {
+          "text": "爽",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0965.mp3"
+        },
+        {
+          "text": "橘",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0981.mp3"
+        },
+        {
+          "text": "频",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0969.mp3"
+        },
+        {
+          "text": "梨",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0982.mp3"
+        },
+        {
+          "text": "勾",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0970.mp3"
+        },
+        {
+          "text": "喇",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0983.mp3"
+        },
+        {
+          "text": "叭",
+          "kind": "recognition",
+          "lesson": "6",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0984.mp3"
+        },
+        {
+          "text": "抖",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0985.mp3"
+        },
+        {
+          "text": "振",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0986.mp3"
+        },
+        {
+          "text": "韵",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0987.mp3"
+        },
+        {
+          "text": "掠",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0988.mp3"
+        },
+        {
+          "text": "吟",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0989.mp3"
+        },
+        {
+          "text": "辽",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0990.mp3"
+        },
+        {
+          "text": "阔",
+          "kind": "recognition",
+          "lesson": "7",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-0991.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "第3单元",
+      "items": [
+        {
+          "text": "门板",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0992.mp3"
+        },
+        {
+          "text": "准备",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0993.mp3"
+        },
+        {
+          "text": "旁边",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0994.mp3"
+        },
+        {
+          "text": "暴风雨",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0995.mp3"
+        },
+        {
+          "text": "安心",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0996.mp3"
+        },
+        {
+          "text": "低头",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0997.mp3"
+        },
+        {
+          "text": "吃力",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0998.mp3"
+        },
+        {
+          "text": "再见",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-0999.mp3"
+        },
+        {
+          "text": "母鸡",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1000.mp3"
+        },
+        {
+          "text": "注意",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1001.mp3"
+        },
+        {
+          "text": "屋子",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1002.mp3"
+        },
+        {
+          "text": "漂亮",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1003.mp3"
+        },
+        {
+          "text": "意思",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1004.mp3"
+        },
+        {
+          "text": "因此",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1005.mp3"
+        },
+        {
+          "text": "恒心",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1006.mp3"
+        },
+        {
+          "text": "神圣",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1007.mp3"
+        },
+        {
+          "text": "萌发",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1008.mp3"
+        },
+        {
+          "text": "妥当",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1009.mp3"
+        },
+        {
+          "text": "车轴",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1010.mp3"
+        },
+        {
+          "text": "阁楼",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1011.mp3"
+        },
+        {
+          "text": "培植",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1012.mp3"
+        },
+        {
+          "text": "厘米",
+          "kind": "words",
+          "lesson": "garden3",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1013.mp3"
+        },
+        {
+          "text": "屋",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1014.mp3"
+        },
+        {
+          "text": "板",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1015.mp3"
+        },
+        {
+          "text": "准",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1016.mp3"
+        },
+        {
+          "text": "备",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1017.mp3"
+        },
+        {
+          "text": "等",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1018.mp3"
+        },
+        {
+          "text": "暴",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1019.mp3"
+        },
+        {
+          "text": "哦",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1020.mp3"
+        },
+        {
+          "text": "钻",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1021.mp3"
+        },
+        {
+          "text": "爬",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1022.mp3"
+        },
+        {
+          "text": "漂",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1023.mp3"
+        },
+        {
+          "text": "晒",
+          "kind": "writing",
+          "lesson": "8",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1024.mp3"
+        },
+        {
+          "text": "恒",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1025.mp3"
+        },
+        {
+          "text": "圣",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1026.mp3"
+        },
+        {
+          "text": "萌",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1027.mp3"
+        },
+        {
+          "text": "妥",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1028.mp3"
+        },
+        {
+          "text": "轴",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1029.mp3"
+        },
+        {
+          "text": "阁",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1030.mp3"
+        },
+        {
+          "text": "培",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1031.mp3"
+        },
+        {
+          "text": "厘",
+          "kind": "writing",
+          "lesson": "garden3",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1032.mp3"
+        },
+        {
+          "text": "眯",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1033.mp3"
+        },
+        {
+          "text": "哦",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1020.mp3"
+        },
+        {
+          "text": "喵",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1034.mp3"
+        },
+        {
+          "text": "孵",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1035.mp3"
+        },
+        {
+          "text": "叽",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1036.mp3"
+        },
+        {
+          "text": "缝",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1037.mp3"
+        },
+        {
+          "text": "偶",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1038.mp3"
+        },
+        {
+          "text": "尔",
+          "kind": "recognition",
+          "lesson": "8",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1039.mp3"
+        },
+        {
+          "text": "陶",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1040.mp3"
+        },
+        {
+          "text": "适",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1041.mp3"
+        },
+        {
+          "text": "谈",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1042.mp3"
+        },
+        {
+          "text": "婚",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1043.mp3"
+        },
+        {
+          "text": "庆",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1044.mp3"
+        },
+        {
+          "text": "典",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1045.mp3"
+        },
+        {
+          "text": "途",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1046.mp3"
+        },
+        {
+          "text": "括",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1047.mp3"
+        },
+        {
+          "text": "史",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1048.mp3"
+        },
+        {
+          "text": "倍",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1049.mp3"
+        },
+        {
+          "text": "几",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-1050.mp3"
+        },
+        {
+          "text": "持",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1051.mp3"
+        },
+        {
+          "text": "官",
+          "kind": "recognition",
+          "lesson": "9",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1052.mp3"
+        },
+        {
+          "text": "陌",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1053.mp3"
+        },
+        {
+          "text": "吗",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-1054.mp3"
+        },
+        {
+          "text": "讨",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1055.mp3"
+        },
+        {
+          "text": "厌",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1056.mp3"
+        },
+        {
+          "text": "访",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1057.mp3"
+        },
+        {
+          "text": "记",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1058.mp3"
+        },
+        {
+          "text": "忍",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1059.mp3"
+        },
+        {
+          "text": "委",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1060.mp3"
+        },
+        {
+          "text": "屈",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1061.mp3"
+        },
+        {
+          "text": "中",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-1062.mp3"
+        },
+        {
+          "text": "弹",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": true,
+          "audio": "assets/audio/word-1063.mp3"
+        },
+        {
+          "text": "疯",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1064.mp3"
+        },
+        {
+          "text": "局",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1065.mp3"
+        },
+        {
+          "text": "汪",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1066.mp3"
+        },
+        {
+          "text": "搞",
+          "kind": "recognition",
+          "lesson": "10",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1067.mp3"
+        },
+        {
+          "text": "恒",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1025.mp3"
+        },
+        {
+          "text": "圣",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1026.mp3"
+        },
+        {
+          "text": "萌",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1027.mp3"
+        },
+        {
+          "text": "妥",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1028.mp3"
+        },
+        {
+          "text": "轴",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1029.mp3"
+        },
+        {
+          "text": "阁",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1030.mp3"
+        },
+        {
+          "text": "培",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1031.mp3"
+        },
+        {
+          "text": "厘",
+          "kind": "recognition",
+          "lesson": "garden3",
+          "pdfPage": 115,
+          "review": false,
+          "audio": "assets/audio/word-1032.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "第4单元",
+      "items": [
+        {
+          "text": "声明",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1068.mp3"
+        },
+        {
+          "text": "神仙",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1069.mp3"
+        },
+        {
+          "text": "普通",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1070.mp3"
+        },
+        {
+          "text": "让步",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1071.mp3"
+        },
+        {
+          "text": "条件",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1072.mp3"
+        },
+        {
+          "text": "指甲",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1073.mp3"
+        },
+        {
+          "text": "得到",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1074.mp3"
+        },
+        {
+          "text": "衣服",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1075.mp3"
+        },
+        {
+          "text": "所以",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1076.mp3"
+        },
+        {
+          "text": "要是",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1077.mp3"
+        },
+        {
+          "text": "同学",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1078.mp3"
+        },
+        {
+          "text": "可怜",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1079.mp3"
+        },
+        {
+          "text": "最好",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1080.mp3"
+        },
+        {
+          "text": "科学",
+          "kind": "words",
+          "lesson": "11",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1081.mp3"
+        },
+        {
+          "text": "旅行",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1082.mp3"
+        },
+        {
+          "text": "要好",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1083.mp3"
+        },
+        {
+          "text": "答应",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1084.mp3"
+        },
+        {
+          "text": "做梦",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1085.mp3"
+        },
+        {
+          "text": "来得及",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1086.mp3"
+        },
+        {
+          "text": "救命",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 120,
+          "review": false,
+          "audio": "assets/audio/word-1087.mp3"
+        },
+        {
+          "text": "大吃一惊",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1088.mp3"
+        },
+        {
+          "text": "尾巴",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1089.mp3"
+        },
+        {
+          "text": "牙齿",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1090.mp3"
+        },
+        {
+          "text": "肚皮",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1091.mp3"
+        },
+        {
+          "text": "食物",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1092.mp3"
+        },
+        {
+          "text": "消化",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1093.mp3"
+        },
+        {
+          "text": "当然",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1094.mp3"
+        },
+        {
+          "text": "刚才",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1095.mp3"
+        },
+        {
+          "text": "知觉",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1096.mp3"
+        },
+        {
+          "text": "光亮",
+          "kind": "words",
+          "lesson": "12",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1097.mp3"
+        },
+        {
+          "text": "申请",
+          "kind": "words",
+          "lesson": "garden4",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1098.mp3"
+        },
+        {
+          "text": "介绍",
+          "kind": "words",
+          "lesson": "garden4",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1099.mp3"
+        },
+        {
+          "text": "主旨",
+          "kind": "words",
+          "lesson": "garden4",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1100.mp3"
+        },
+        {
+          "text": "占领",
+          "kind": "words",
+          "lesson": "garden4",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1101.mp3"
+        },
+        {
+          "text": "乏力",
+          "kind": "words",
+          "lesson": "garden4",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1102.mp3"
+        },
+        {
+          "text": "葫",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1103.mp3"
+        },
+        {
+          "text": "芦",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1104.mp3"
+        },
+        {
+          "text": "错",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1105.mp3"
+        },
+        {
+          "text": "普",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1106.mp3"
+        },
+        {
+          "text": "宫",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1107.mp3"
+        },
+        {
+          "text": "肯",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1108.mp3"
+        },
+        {
+          "text": "冒",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1109.mp3"
+        },
+        {
+          "text": "式",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1110.mp3"
+        },
+        {
+          "text": "怜",
+          "kind": "writing",
+          "lesson": "11",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1111.mp3"
+        },
+        {
+          "text": "旅",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1112.mp3"
+        },
+        {
+          "text": "另",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1113.mp3"
+        },
+        {
+          "text": "睛",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1114.mp3"
+        },
+        {
+          "text": "及",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1115.mp3"
+        },
+        {
+          "text": "卷",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1116.mp3"
+        },
+        {
+          "text": "救",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1117.mp3"
+        },
+        {
+          "text": "命",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1118.mp3"
+        },
+        {
+          "text": "尾",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1119.mp3"
+        },
+        {
+          "text": "齿",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1120.mp3"
+        },
+        {
+          "text": "胃",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1121.mp3"
+        },
+        {
+          "text": "管",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1122.mp3"
+        },
+        {
+          "text": "刚",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1123.mp3"
+        },
+        {
+          "text": "咬",
+          "kind": "writing",
+          "lesson": "12",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1124.mp3"
+        },
+        {
+          "text": "申",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1125.mp3"
+        },
+        {
+          "text": "介",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1126.mp3"
+        },
+        {
+          "text": "绍",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1127.mp3"
+        },
+        {
+          "text": "宗",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1128.mp3"
+        },
+        {
+          "text": "旨",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1129.mp3"
+        },
+        {
+          "text": "占",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1130.mp3"
+        },
+        {
+          "text": "乏",
+          "kind": "writing",
+          "lesson": "garden4",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1131.mp3"
+        },
+        {
+          "text": "普",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1106.mp3"
+        },
+        {
+          "text": "少",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1132.mp3"
+        },
+        {
+          "text": "矩",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1133.mp3"
+        },
+        {
+          "text": "丫",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1134.mp3"
+        },
+        {
+          "text": "宫",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1107.mp3"
+        },
+        {
+          "text": "掘",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1135.mp3"
+        },
+        {
+          "text": "希",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1136.mp3"
+        },
+        {
+          "text": "冲",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1137.mp3"
+        },
+        {
+          "text": "联",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1138.mp3"
+        },
+        {
+          "text": "系",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1139.mp3"
+        },
+        {
+          "text": "葵",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1140.mp3"
+        },
+        {
+          "text": "瘦",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1141.mp3"
+        },
+        {
+          "text": "罢",
+          "kind": "recognition",
+          "lesson": "11",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1142.mp3"
+        },
+        {
+          "text": "答",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1143.mp3"
+        },
+        {
+          "text": "应",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1144.mp3"
+        },
+        {
+          "text": "及",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1115.mp3"
+        },
+        {
+          "text": "卷",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1116.mp3"
+        },
+        {
+          "text": "骨",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1145.mp3"
+        },
+        {
+          "text": "碌",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1146.mp3"
+        },
+        {
+          "text": "齿",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1120.mp3"
+        },
+        {
+          "text": "嚼",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1147.mp3"
+        },
+        {
+          "text": "吞",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1148.mp3"
+        },
+        {
+          "text": "胃",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1121.mp3"
+        },
+        {
+          "text": "咽",
+          "kind": "recognition",
+          "lesson": "12",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1149.mp3"
+        },
+        {
+          "text": "宣",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1150.mp3"
+        },
+        {
+          "text": "处",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1151.mp3"
+        },
+        {
+          "text": "恐",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1152.mp3"
+        },
+        {
+          "text": "诱",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1153.mp3"
+        },
+        {
+          "text": "毅",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1154.mp3"
+        },
+        {
+          "text": "强",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1155.mp3"
+        },
+        {
+          "text": "纪",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1156.mp3"
+        },
+        {
+          "text": "性",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1157.mp3"
+        },
+        {
+          "text": "渣",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1158.mp3"
+        },
+        {
+          "text": "犯",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1159.mp3"
+        },
+        {
+          "text": "禁",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1160.mp3"
+        },
+        {
+          "text": "旧",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1161.mp3"
+        },
+        {
+          "text": "聚",
+          "kind": "recognition",
+          "lesson": "13",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1162.mp3"
+        },
+        {
+          "text": "申",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1125.mp3"
+        },
+        {
+          "text": "介",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1126.mp3"
+        },
+        {
+          "text": "绍",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1127.mp3"
+        },
+        {
+          "text": "宗",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1128.mp3"
+        },
+        {
+          "text": "旨",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1129.mp3"
+        },
+        {
+          "text": "占",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1130.mp3"
+        },
+        {
+          "text": "乏",
+          "kind": "recognition",
+          "lesson": "garden4",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1131.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "第5单元",
+      "items": [
+        {
+          "text": "母亲",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1163.mp3"
+        },
+        {
+          "text": "外祖父",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1164.mp3"
+        },
+        {
+          "text": "船夫",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1165.mp3"
+        },
+        {
+          "text": "羽毛",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1166.mp3"
+        },
+        {
+          "text": "翠绿",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1167.mp3"
+        },
+        {
+          "text": "静悄悄",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1168.mp3"
+        },
+        {
+          "text": "翠鸟",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1169.mp3"
+        },
+        {
+          "text": "捕鱼",
+          "kind": "words",
+          "lesson": "14",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1170.mp3"
+        },
+        {
+          "text": "草地",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1171.mp3"
+        },
+        {
+          "text": "蒲公英",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1172.mp3"
+        },
+        {
+          "text": "盛开",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1173.mp3"
+        },
+        {
+          "text": "玩耍",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1174.mp3"
+        },
+        {
+          "text": "一本正经",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1175.mp3"
+        },
+        {
+          "text": "使劲",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1176.mp3"
+        },
+        {
+          "text": "钓鱼",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1177.mp3"
+        },
+        {
+          "text": "观察",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1178.mp3"
+        },
+        {
+          "text": "合拢",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1179.mp3"
+        },
+        {
+          "text": "张开",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1180.mp3"
+        },
+        {
+          "text": "喜爱",
+          "kind": "words",
+          "lesson": "15",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1181.mp3"
+        },
+        {
+          "text": "搭",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1182.mp3"
+        },
+        {
+          "text": "亲",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1183.mp3"
+        },
+        {
+          "text": "祖",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1184.mp3"
+        },
+        {
+          "text": "披",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1185.mp3"
+        },
+        {
+          "text": "摇",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1186.mp3"
+        },
+        {
+          "text": "停",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1187.mp3"
+        },
+        {
+          "text": "羽",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1188.mp3"
+        },
+        {
+          "text": "翠",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1189.mp3"
+        },
+        {
+          "text": "蓝",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1190.mp3"
+        },
+        {
+          "text": "静",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1191.mp3"
+        },
+        {
+          "text": "悄",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1192.mp3"
+        },
+        {
+          "text": "吞",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1148.mp3"
+        },
+        {
+          "text": "捕",
+          "kind": "writing",
+          "lesson": "14",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1193.mp3"
+        },
+        {
+          "text": "蒲",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1194.mp3"
+        },
+        {
+          "text": "英",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1195.mp3"
+        },
+        {
+          "text": "盛",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1196.mp3"
+        },
+        {
+          "text": "耍",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1197.mp3"
+        },
+        {
+          "text": "使",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1198.mp3"
+        },
+        {
+          "text": "劲",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1199.mp3"
+        },
+        {
+          "text": "脸",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1200.mp3"
+        },
+        {
+          "text": "欠",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1201.mp3"
+        },
+        {
+          "text": "朝",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1202.mp3"
+        },
+        {
+          "text": "钓",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1203.mp3"
+        },
+        {
+          "text": "察",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1204.mp3"
+        },
+        {
+          "text": "拢",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1205.mp3"
+        },
+        {
+          "text": "喜",
+          "kind": "writing",
+          "lesson": "15",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1206.mp3"
+        },
+        {
+          "text": "舱",
+          "kind": "recognition",
+          "lesson": "14",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1207.mp3"
+        },
+        {
+          "text": "啦",
+          "kind": "recognition",
+          "lesson": "14",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1208.mp3"
+        },
+        {
+          "text": "鹦",
+          "kind": "recognition",
+          "lesson": "14",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1209.mp3"
+        },
+        {
+          "text": "鹉",
+          "kind": "recognition",
+          "lesson": "14",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1210.mp3"
+        },
+        {
+          "text": "衔",
+          "kind": "recognition",
+          "lesson": "14",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1211.mp3"
+        },
+        {
+          "text": "蒲",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1194.mp3"
+        },
+        {
+          "text": "英",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1195.mp3"
+        },
+        {
+          "text": "耍",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1197.mp3"
+        },
+        {
+          "text": "茸",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1212.mp3"
+        },
+        {
+          "text": "欠",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1201.mp3"
+        },
+        {
+          "text": "拢",
+          "kind": "recognition",
+          "lesson": "15",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1205.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "第6单元",
+      "items": [
+        {
+          "text": "风景",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1213.mp3"
+        },
+        {
+          "text": "优美",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1214.mp3"
+        },
+        {
+          "text": "物产",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1215.mp3"
+        },
+        {
+          "text": "交错",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1216.mp3"
+        },
+        {
+          "text": "岩石",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1217.mp3"
+        },
+        {
+          "text": "鹿角",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1218.mp3"
+        },
+        {
+          "text": "成群结队",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1219.mp3"
+        },
+        {
+          "text": "布满",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1220.mp3"
+        },
+        {
+          "text": "条纹",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1221.mp3"
+        },
+        {
+          "text": "周身",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1222.mp3"
+        },
+        {
+          "text": "皮球",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1223.mp3"
+        },
+        {
+          "text": "茂密",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1224.mp3"
+        },
+        {
+          "text": "肥料",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1225.mp3"
+        },
+        {
+          "text": "祖国",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1226.mp3"
+        },
+        {
+          "text": "事业",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1227.mp3"
+        },
+        {
+          "text": "发展",
+          "kind": "words",
+          "lesson": "16",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1228.mp3"
+        },
+        {
+          "text": "海滨",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1229.mp3"
+        },
+        {
+          "text": "街道",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1230.mp3"
+        },
+        {
+          "text": "交界",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1231.mp3"
+        },
+        {
+          "text": "水平线",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1232.mp3"
+        },
+        {
+          "text": "机帆船",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1233.mp3"
+        },
+        {
+          "text": "来来往往",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1234.mp3"
+        },
+        {
+          "text": "朝阳",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1235.mp3"
+        },
+        {
+          "text": "渔民",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1236.mp3"
+        },
+        {
+          "text": "贝壳",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1237.mp3"
+        },
+        {
+          "text": "汽笛",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1238.mp3"
+        },
+        {
+          "text": "出海",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1239.mp3"
+        },
+        {
+          "text": "银光闪闪",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1240.mp3"
+        },
+        {
+          "text": "庭院",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1241.mp3"
+        },
+        {
+          "text": "亚热带",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1242.mp3"
+        },
+        {
+          "text": "散发",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1243.mp3"
+        },
+        {
+          "text": "打扫",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1244.mp3"
+        },
+        {
+          "text": "干净",
+          "kind": "words",
+          "lesson": "17",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1245.mp3"
+        },
+        {
+          "text": "东北",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1246.mp3"
+        },
+        {
+          "text": "密密层层",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1247.mp3"
+        },
+        {
+          "text": "严严实实",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1248.mp3"
+        },
+        {
+          "text": "视线",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1249.mp3"
+        },
+        {
+          "text": "山谷",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1250.mp3"
+        },
+        {
+          "text": "起来",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1251.mp3"
+        },
+        {
+          "text": "照射",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1252.mp3"
+        },
+        {
+          "text": "各种各样",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1253.mp3"
+        },
+        {
+          "text": "花坛",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1254.mp3"
+        },
+        {
+          "text": "显得",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1255.mp3"
+        },
+        {
+          "text": "苍翠",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1256.mp3"
+        },
+        {
+          "text": "药材",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1257.mp3"
+        },
+        {
+          "text": "捕捉",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1258.mp3"
+        },
+        {
+          "text": "野兔",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1259.mp3"
+        },
+        {
+          "text": "景色",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1260.mp3"
+        },
+        {
+          "text": "宝库",
+          "kind": "words",
+          "lesson": "18",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1261.mp3"
+        },
+        {
+          "text": "景",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1262.mp3"
+        },
+        {
+          "text": "优",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1263.mp3"
+        },
+        {
+          "text": "淡",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1264.mp3"
+        },
+        {
+          "text": "浅",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1265.mp3"
+        },
+        {
+          "text": "底",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1266.mp3"
+        },
+        {
+          "text": "岩",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1267.mp3"
+        },
+        {
+          "text": "鹿",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1268.mp3"
+        },
+        {
+          "text": "划",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1269.mp3"
+        },
+        {
+          "text": "布",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1270.mp3"
+        },
+        {
+          "text": "茂",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1271.mp3"
+        },
+        {
+          "text": "密",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1272.mp3"
+        },
+        {
+          "text": "厚",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1273.mp3"
+        },
+        {
+          "text": "料",
+          "kind": "writing",
+          "lesson": "16",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1274.mp3"
+        },
+        {
+          "text": "滨",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1275.mp3"
+        },
+        {
+          "text": "棕",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-0977.mp3"
+        },
+        {
+          "text": "帆",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1276.mp3"
+        },
+        {
+          "text": "灰",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1277.mp3"
+        },
+        {
+          "text": "跟",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1278.mp3"
+        },
+        {
+          "text": "渔",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1279.mp3"
+        },
+        {
+          "text": "壳",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1280.mp3"
+        },
+        {
+          "text": "院",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1281.mp3"
+        },
+        {
+          "text": "亚",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1282.mp3"
+        },
+        {
+          "text": "透",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1283.mp3"
+        },
+        {
+          "text": "除",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1284.mp3"
+        },
+        {
+          "text": "踩",
+          "kind": "writing",
+          "lesson": "17",
+          "pdfPage": 118,
+          "review": false,
+          "audio": "assets/audio/word-1285.mp3"
+        },
+        {
+          "text": "抽",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1286.mp3"
+        },
+        {
+          "text": "封",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1287.mp3"
+        },
+        {
+          "text": "严",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1288.mp3"
+        },
+        {
+          "text": "挡",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1289.mp3"
+        },
+        {
+          "text": "坛",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1290.mp3"
+        },
+        {
+          "text": "显",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1291.mp3"
+        },
+        {
+          "text": "苍",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1292.mp3"
+        },
+        {
+          "text": "药",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1293.mp3"
+        },
+        {
+          "text": "材",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1294.mp3"
+        },
+        {
+          "text": "软",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1295.mp3"
+        },
+        {
+          "text": "刮",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1296.mp3"
+        },
+        {
+          "text": "捉",
+          "kind": "writing",
+          "lesson": "18",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1297.mp3"
+        },
+        {
+          "text": "饶",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1298.mp3"
+        },
+        {
+          "text": "优",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1263.mp3"
+        },
+        {
+          "text": "崖",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1299.mp3"
+        },
+        {
+          "text": "参",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1300.mp3"
+        },
+        {
+          "text": "懒",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1301.mp3"
+        },
+        {
+          "text": "划",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1269.mp3"
+        },
+        {
+          "text": "威",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1302.mp3"
+        },
+        {
+          "text": "武",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1303.mp3"
+        },
+        {
+          "text": "插",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1304.mp3"
+        },
+        {
+          "text": "栖",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1305.mp3"
+        },
+        {
+          "text": "厚",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1273.mp3"
+        },
+        {
+          "text": "粪",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1306.mp3"
+        },
+        {
+          "text": "辈",
+          "kind": "recognition",
+          "lesson": "16",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1307.mp3"
+        },
+        {
+          "text": "滨",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1275.mp3"
+        },
+        {
+          "text": "胳",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1308.mp3"
+        },
+        {
+          "text": "臂",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-0901.mp3"
+        },
+        {
+          "text": "滩",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1309.mp3"
+        },
+        {
+          "text": "睬",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1310.mp3"
+        },
+        {
+          "text": "载",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1311.mp3"
+        },
+        {
+          "text": "逢",
+          "kind": "recognition",
+          "lesson": "17",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1312.mp3"
+        },
+        {
+          "text": "兴",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1313.mp3"
+        },
+        {
+          "text": "融",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1314.mp3"
+        },
+        {
+          "text": "侧",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1315.mp3"
+        },
+        {
+          "text": "欣",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1316.mp3"
+        },
+        {
+          "text": "封",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1287.mp3"
+        },
+        {
+          "text": "浸",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1317.mp3"
+        },
+        {
+          "text": "乳",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1318.mp3"
+        },
+        {
+          "text": "梢",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1319.mp3"
+        },
+        {
+          "text": "宿",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1320.mp3"
+        },
+        {
+          "text": "舍",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1321.mp3"
+        },
+        {
+          "text": "药",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1293.mp3"
+        },
+        {
+          "text": "眠",
+          "kind": "recognition",
+          "lesson": "18",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1322.mp3"
+        },
+        {
+          "text": "贸",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1323.mp3"
+        },
+        {
+          "text": "愧",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1324.mp3"
+        },
+        {
+          "text": "仅",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1325.mp3"
+        },
+        {
+          "text": "议",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1326.mp3"
+        },
+        {
+          "text": "政",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1327.mp3"
+        },
+        {
+          "text": "府",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1328.mp3"
+        },
+        {
+          "text": "赠",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1329.mp3"
+        },
+        {
+          "text": "幻",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1330.mp3"
+        },
+        {
+          "text": "焰",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1331.mp3"
+        },
+        {
+          "text": "澳",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1332.mp3"
+        },
+        {
+          "text": "扮",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1333.mp3"
+        },
+        {
+          "text": "角",
+          "kind": "recognition",
+          "lesson": "19",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1334.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "第7单元",
+      "items": [
+        {
+          "text": "大自然",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1335.mp3"
+        },
+        {
+          "text": "美妙",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1336.mp3"
+        },
+        {
+          "text": "音乐家",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1337.mp3"
+        },
+        {
+          "text": "手风琴",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1338.mp3"
+        },
+        {
+          "text": "歌手",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1339.mp3"
+        },
+        {
+          "text": "感受",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 121,
+          "review": false,
+          "audio": "assets/audio/word-1340.mp3"
+        },
+        {
+          "text": "温柔",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1341.mp3"
+        },
+        {
+          "text": "合奏",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1342.mp3"
+        },
+        {
+          "text": "充满",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1343.mp3"
+        },
+        {
+          "text": "威力",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1344.mp3"
+        },
+        {
+          "text": "乐器",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1345.mp3"
+        },
+        {
+          "text": "屋顶",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1346.mp3"
+        },
+        {
+          "text": "河流",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1347.mp3"
+        },
+        {
+          "text": "轻快",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1348.mp3"
+        },
+        {
+          "text": "合唱",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1349.mp3"
+        },
+        {
+          "text": "水塘",
+          "kind": "words",
+          "lesson": "21",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1350.mp3"
+        },
+        {
+          "text": "昆虫",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1351.mp3"
+        },
+        {
+          "text": "万物",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1352.mp3"
+        },
+        {
+          "text": "沉思",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1353.mp3"
+        },
+        {
+          "text": "搬家",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1354.mp3"
+        },
+        {
+          "text": "井然有序",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1355.mp3"
+        },
+        {
+          "text": "精神",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1356.mp3"
+        },
+        {
+          "text": "植物",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1357.mp3"
+        },
+        {
+          "text": "千姿百态",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1358.mp3"
+        },
+        {
+          "text": "鲜美",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1359.mp3"
+        },
+        {
+          "text": "池塘",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1360.mp3"
+        },
+        {
+          "text": "秋高气爽",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1361.mp3"
+        },
+        {
+          "text": "倒映",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1362.mp3"
+        },
+        {
+          "text": "游玩",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1363.mp3"
+        },
+        {
+          "text": "画册",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1364.mp3"
+        },
+        {
+          "text": "无穷",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1365.mp3"
+        },
+        {
+          "text": "奥秘",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1366.mp3"
+        },
+        {
+          "text": "无尽",
+          "kind": "words",
+          "lesson": "22",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1367.mp3"
+        },
+        {
+          "text": "田螺",
+          "kind": "words",
+          "lesson": "garden7",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1368.mp3"
+        },
+        {
+          "text": "螃蟹",
+          "kind": "words",
+          "lesson": "garden7",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1369.mp3"
+        },
+        {
+          "text": "鲤鱼",
+          "kind": "words",
+          "lesson": "garden7",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1370.mp3"
+        },
+        {
+          "text": "鲫鱼",
+          "kind": "words",
+          "lesson": "garden7",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1371.mp3"
+        },
+        {
+          "text": "鲨鱼",
+          "kind": "words",
+          "lesson": "garden7",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1372.mp3"
+        },
+        {
+          "text": "返",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1373.mp3"
+        },
+        {
+          "text": "望",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1374.mp3"
+        },
+        {
+          "text": "断",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1375.mp3"
+        },
+        {
+          "text": "楚",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1376.mp3"
+        },
+        {
+          "text": "至",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1377.mp3"
+        },
+        {
+          "text": "岸",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1378.mp3"
+        },
+        {
+          "text": "孤",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1379.mp3"
+        },
+        {
+          "text": "饮",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1380.mp3"
+        },
+        {
+          "text": "亦",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1381.mp3"
+        },
+        {
+          "text": "欲",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1382.mp3"
+        },
+        {
+          "text": "抹",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1383.mp3"
+        },
+        {
+          "text": "宜",
+          "kind": "writing",
+          "lesson": "20",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1384.mp3"
+        },
+        {
+          "text": "妙",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1385.mp3"
+        },
+        {
+          "text": "奏",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1386.mp3"
+        },
+        {
+          "text": "琴",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1387.mp3"
+        },
+        {
+          "text": "柔",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1388.mp3"
+        },
+        {
+          "text": "感",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1389.mp3"
+        },
+        {
+          "text": "充",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1390.mp3"
+        },
+        {
+          "text": "威",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1302.mp3"
+        },
+        {
+          "text": "器",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1391.mp3"
+        },
+        {
+          "text": "汇",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1392.mp3"
+        },
+        {
+          "text": "鸣",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1393.mp3"
+        },
+        {
+          "text": "塘",
+          "kind": "writing",
+          "lesson": "21",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1394.mp3"
+        },
+        {
+          "text": "虾",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1395.mp3"
+        },
+        {
+          "text": "昆",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1396.mp3"
+        },
+        {
+          "text": "仅",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1325.mp3"
+        },
+        {
+          "text": "序",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1397.mp3"
+        },
+        {
+          "text": "荣",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1398.mp3"
+        },
+        {
+          "text": "枯",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1399.mp3"
+        },
+        {
+          "text": "姿",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1400.mp3"
+        },
+        {
+          "text": "态",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1401.mp3"
+        },
+        {
+          "text": "刺",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1402.mp3"
+        },
+        {
+          "text": "梨",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-0982.mp3"
+        },
+        {
+          "text": "部",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1403.mp3"
+        },
+        {
+          "text": "奥",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1404.mp3"
+        },
+        {
+          "text": "秘",
+          "kind": "writing",
+          "lesson": "22",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1405.mp3"
+        },
+        {
+          "text": "螺",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1406.mp3"
+        },
+        {
+          "text": "螃",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1407.mp3"
+        },
+        {
+          "text": "蟹",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1408.mp3"
+        },
+        {
+          "text": "鲤",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1409.mp3"
+        },
+        {
+          "text": "鲫",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1410.mp3"
+        },
+        {
+          "text": "鲨",
+          "kind": "writing",
+          "lesson": "garden7",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1411.mp3"
+        },
+        {
+          "text": "返",
+          "kind": "recognition",
+          "lesson": "20",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1373.mp3"
+        },
+        {
+          "text": "苔",
+          "kind": "recognition",
+          "lesson": "20",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1412.mp3"
+        },
+        {
+          "text": "亦",
+          "kind": "recognition",
+          "lesson": "20",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1381.mp3"
+        },
+        {
+          "text": "抹",
+          "kind": "recognition",
+          "lesson": "20",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1383.mp3"
+        },
+        {
+          "text": "宜",
+          "kind": "recognition",
+          "lesson": "20",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1384.mp3"
+        },
+        {
+          "text": "妙",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1385.mp3"
+        },
+        {
+          "text": "奏",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1386.mp3"
+        },
+        {
+          "text": "呢",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": true,
+          "audio": "assets/audio/word-1413.mp3"
+        },
+        {
+          "text": "喃",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1414.mp3"
+        },
+        {
+          "text": "激",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1415.mp3"
+        },
+        {
+          "text": "伟",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1416.mp3"
+        },
+        {
+          "text": "充",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1390.mp3"
+        },
+        {
+          "text": "击",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1417.mp3"
+        },
+        {
+          "text": "器",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1391.mp3"
+        },
+        {
+          "text": "汇",
+          "kind": "recognition",
+          "lesson": "21",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1392.mp3"
+        },
+        {
+          "text": "麻",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1418.mp3"
+        },
+        {
+          "text": "旋",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1419.mp3"
+        },
+        {
+          "text": "序",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1397.mp3"
+        },
+        {
+          "text": "贞",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1420.mp3"
+        },
+        {
+          "text": "姿",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1400.mp3"
+        },
+        {
+          "text": "笋",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1421.mp3"
+        },
+        {
+          "text": "超",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1422.mp3"
+        },
+        {
+          "text": "凡",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1423.mp3"
+        },
+        {
+          "text": "俗",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1424.mp3"
+        },
+        {
+          "text": "奥",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1404.mp3"
+        },
+        {
+          "text": "秘",
+          "kind": "recognition",
+          "lesson": "22",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1405.mp3"
+        },
+        {
+          "text": "螺",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1406.mp3"
+        },
+        {
+          "text": "螃",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1407.mp3"
+        },
+        {
+          "text": "蟹",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1408.mp3"
+        },
+        {
+          "text": "鲤",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1409.mp3"
+        },
+        {
+          "text": "鲫",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1410.mp3"
+        },
+        {
+          "text": "鲨",
+          "kind": "recognition",
+          "lesson": "garden7",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1411.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "第8单元",
+      "items": [
+        {
+          "text": "生物",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1425.mp3"
+        },
+        {
+          "text": "从事",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1426.mp3"
+        },
+        {
+          "text": "成就",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1427.mp3"
+        },
+        {
+          "text": "学期",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1428.mp3"
+        },
+        {
+          "text": "考试",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1429.mp3"
+        },
+        {
+          "text": "再三",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1430.mp3"
+        },
+        {
+          "text": "同意",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1431.mp3"
+        },
+        {
+          "text": "难得",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1432.mp3"
+        },
+        {
+          "text": "值班",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1433.mp3"
+        },
+        {
+          "text": "努力",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1434.mp3"
+        },
+        {
+          "text": "留学",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1435.mp3"
+        },
+        {
+          "text": "国家",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1436.mp3"
+        },
+        {
+          "text": "落后",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1437.mp3"
+        },
+        {
+          "text": "地位",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1438.mp3"
+        },
+        {
+          "text": "环节",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1439.mp3"
+        },
+        {
+          "text": "难度",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1440.mp3"
+        },
+        {
+          "text": "刻苦",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1441.mp3"
+        },
+        {
+          "text": "兴奋",
+          "kind": "words",
+          "lesson": "24",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1442.mp3"
+        },
+        {
+          "text": "手术台",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1443.mp3"
+        },
+        {
+          "text": "阵地",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1444.mp3"
+        },
+        {
+          "text": "战斗",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1445.mp3"
+        },
+        {
+          "text": "打响",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1446.mp3"
+        },
+        {
+          "text": "消灭",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1447.mp3"
+        },
+        {
+          "text": "伤员",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1448.mp3"
+        },
+        {
+          "text": "陆续",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1449.mp3"
+        },
+        {
+          "text": "血丝",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1450.mp3"
+        },
+        {
+          "text": "匆匆",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1451.mp3"
+        },
+        {
+          "text": "医生",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1452.mp3"
+        },
+        {
+          "text": "转告",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1453.mp3"
+        },
+        {
+          "text": "赶忙",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1454.mp3"
+        },
+        {
+          "text": "迅速",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1455.mp3"
+        },
+        {
+          "text": "争分夺秒",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1456.mp3"
+        },
+        {
+          "text": "连续",
+          "kind": "words",
+          "lesson": "25",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1457.mp3"
+        },
+        {
+          "text": "怒目圆睁",
+          "kind": "words",
+          "lesson": "garden8",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1458.mp3"
+        },
+        {
+          "text": "眨眼",
+          "kind": "words",
+          "lesson": "garden8",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1459.mp3"
+        },
+        {
+          "text": "眼眶",
+          "kind": "words",
+          "lesson": "garden8",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1460.mp3"
+        },
+        {
+          "text": "目瞪口呆",
+          "kind": "words",
+          "lesson": "garden8",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1461.mp3"
+        },
+        {
+          "text": "耳闻目睹",
+          "kind": "words",
+          "lesson": "garden8",
+          "pdfPage": 122,
+          "review": false,
+          "audio": "assets/audio/word-1462.mp3"
+        },
+        {
+          "text": "司",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1463.mp3"
+        },
+        {
+          "text": "登",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1464.mp3"
+        },
+        {
+          "text": "跌",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1465.mp3"
+        },
+        {
+          "text": "皆",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1466.mp3"
+        },
+        {
+          "text": "弃",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1467.mp3"
+        },
+        {
+          "text": "持",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1051.mp3"
+        },
+        {
+          "text": "击",
+          "kind": "writing",
+          "lesson": "23",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1417.mp3"
+        },
+        {
+          "text": "念",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1468.mp3"
+        },
+        {
+          "text": "差",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1469.mp3"
+        },
+        {
+          "text": "考",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1470.mp3"
+        },
+        {
+          "text": "试",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1471.mp3"
+        },
+        {
+          "text": "均",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1472.mp3"
+        },
+        {
+          "text": "退",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1473.mp3"
+        },
+        {
+          "text": "努",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1474.mp3"
+        },
+        {
+          "text": "单",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1475.mp3"
+        },
+        {
+          "text": "留",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1476.mp3"
+        },
+        {
+          "text": "度",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1477.mp3"
+        },
+        {
+          "text": "奋",
+          "kind": "writing",
+          "lesson": "24",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1478.mp3"
+        },
+        {
+          "text": "棒",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1479.mp3"
+        },
+        {
+          "text": "伤",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1480.mp3"
+        },
+        {
+          "text": "陆",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1481.mp3"
+        },
+        {
+          "text": "血",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1482.mp3"
+        },
+        {
+          "text": "取",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1483.mp3"
+        },
+        {
+          "text": "盘",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1484.mp3"
+        },
+        {
+          "text": "匆",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1485.mp3"
+        },
+        {
+          "text": "医",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1486.mp3"
+        },
+        {
+          "text": "迅",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1487.mp3"
+        },
+        {
+          "text": "速",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1488.mp3"
+        },
+        {
+          "text": "夺",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1489.mp3"
+        },
+        {
+          "text": "秒",
+          "kind": "writing",
+          "lesson": "25",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1490.mp3"
+        },
+        {
+          "text": "睁",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1491.mp3"
+        },
+        {
+          "text": "眨",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1492.mp3"
+        },
+        {
+          "text": "瞪",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1493.mp3"
+        },
+        {
+          "text": "瞅",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1494.mp3"
+        },
+        {
+          "text": "怒",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1495.mp3"
+        },
+        {
+          "text": "眶",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1496.mp3"
+        },
+        {
+          "text": "呆",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1497.mp3"
+        },
+        {
+          "text": "睹",
+          "kind": "writing",
+          "lesson": "garden8",
+          "pdfPage": 119,
+          "review": false,
+          "audio": "assets/audio/word-1498.mp3"
+        },
+        {
+          "text": "司",
+          "kind": "recognition",
+          "lesson": "23",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1463.mp3"
+        },
+        {
+          "text": "皆",
+          "kind": "recognition",
+          "lesson": "23",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1466.mp3"
+        },
+        {
+          "text": "弃",
+          "kind": "recognition",
+          "lesson": "23",
+          "pdfPage": 116,
+          "review": false,
+          "audio": "assets/audio/word-1467.mp3"
+        },
+        {
+          "text": "裕",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1499.mp3"
+        },
+        {
+          "text": "差",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1469.mp3"
+        },
+        {
+          "text": "均",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1472.mp3"
+        },
+        {
+          "text": "资",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1500.mp3"
+        },
+        {
+          "text": "欧",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1501.mp3"
+        },
+        {
+          "text": "洲",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1502.mp3"
+        },
+        {
+          "text": "授",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1503.mp3"
+        },
+        {
+          "text": "项",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1504.mp3"
+        },
+        {
+          "text": "验",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1505.mp3"
+        },
+        {
+          "text": "构",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1506.mp3"
+        },
+        {
+          "text": "耐",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1507.mp3"
+        },
+        {
+          "text": "励",
+          "kind": "recognition",
+          "lesson": "24",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1508.mp3"
+        },
+        {
+          "text": "棒",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1479.mp3"
+        },
+        {
+          "text": "大",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": true,
+          "audio": "assets/audio/word-1509.mp3"
+        },
+        {
+          "text": "血",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1482.mp3"
+        },
+        {
+          "text": "硝",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1510.mp3"
+        },
+        {
+          "text": "危",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1511.mp3"
+        },
+        {
+          "text": "险",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1512.mp3"
+        },
+        {
+          "text": "势",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1513.mp3"
+        },
+        {
+          "text": "瓦",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1514.mp3"
+        },
+        {
+          "text": "帘",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1515.mp3"
+        },
+        {
+          "text": "担",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": true,
+          "audio": "assets/audio/word-1516.mp3"
+        },
+        {
+          "text": "迅",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1487.mp3"
+        },
+        {
+          "text": "速",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1488.mp3"
+        },
+        {
+          "text": "夺",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1489.mp3"
+        },
+        {
+          "text": "秒",
+          "kind": "recognition",
+          "lesson": "25",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1490.mp3"
+        },
+        {
+          "text": "瓷",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1517.mp3"
+        },
+        {
+          "text": "赵",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1518.mp3"
+        },
+        {
+          "text": "抗",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1519.mp3"
+        },
+        {
+          "text": "束",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1520.mp3"
+        },
+        {
+          "text": "缸",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1521.mp3"
+        },
+        {
+          "text": "还",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": true,
+          "audio": "assets/audio/word-1522.mp3"
+        },
+        {
+          "text": "顿",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1523.mp3"
+        },
+        {
+          "text": "灶",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1524.mp3"
+        },
+        {
+          "text": "沾",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1525.mp3"
+        },
+        {
+          "text": "禁",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": true,
+          "audio": "assets/audio/word-1160.mp3"
+        },
+        {
+          "text": "锅",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1526.mp3"
+        },
+        {
+          "text": "侦",
+          "kind": "recognition",
+          "lesson": "26",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1527.mp3"
+        },
+        {
+          "text": "睁",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1491.mp3"
+        },
+        {
+          "text": "眨",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1492.mp3"
+        },
+        {
+          "text": "瞪",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1493.mp3"
+        },
+        {
+          "text": "瞅",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1494.mp3"
+        },
+        {
+          "text": "怒",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1495.mp3"
+        },
+        {
+          "text": "眶",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1496.mp3"
+        },
+        {
+          "text": "呆",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1497.mp3"
+        },
+        {
+          "text": "睹",
+          "kind": "recognition",
+          "lesson": "garden8",
+          "pdfPage": 117,
+          "review": false,
+          "audio": "assets/audio/word-1498.mp3"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "words": 250,
+    "writing": 250,
+    "recognition": 276,
+    "recognitionNew": 250
+  },
+  "source": {
+    "url": "https://media.githubusercontent.com/media/LYUGUISONG/Textbooks/main/%E8%AF%AD%E6%96%87/%E4%BA%BA%E6%95%99%E7%89%88%E8%AF%AD%E6%96%87%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "repository": "https://github.com/LYUGUISONG/Textbooks",
+    "method": "Local OCR with appendix comparison and page-image corrections",
+    "note": "Edition is verified per volume; current Chengdu school adoption is not verified."
+  }
+}
