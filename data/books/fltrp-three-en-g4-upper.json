@@ -1,0 +1,967 @@
+{
+  "id": "g4-upper",
+  "name": "四年级上册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-three-en-g4-upper",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "straight",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "go straight on",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "left",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "right",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "lost",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "live",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "No.",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "street",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "excuse me",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "turn left",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "turn right",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "next to",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "supermarket",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "beside",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "cinema",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "so much",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "You're welcome!",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "station",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "train",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "hill",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "near",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        },
+        {
+          "text": "house",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "read",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "running",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "these",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "picture",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "take",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "take pictures",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "children",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "listen",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "listen to",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "talk",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "talk to",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "China",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "kid",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "get on",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "can",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "see",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "lots of",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "interesting",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "thing",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "people",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "row",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "dragon",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "boat",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "dragon boat",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "men",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "between",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "chess",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "play chess",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "drink",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "soya milk",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "clock",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "hungry",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "Me too.",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "draw",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "jump",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "sing",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        },
+        {
+          "text": "dance",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "want",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "some",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "juice",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "ice",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "also",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "food",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "fast food",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "make",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "tomato",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "egg",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "potato",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "How much ...?",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "flower",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "dumpling",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "help",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        },
+        {
+          "text": "buy",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "run",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71
+        },
+        {
+          "text": "fast",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71
+        },
+        {
+          "text": "sky",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "high",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "winner",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "far",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "afraid",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "strong",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        },
+        {
+          "text": "star",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "sweets",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "soup",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "sorry",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "bread",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "dark",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "well",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "turn on",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "light",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "Halloween",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "trick or treat",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "give",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "come in",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        },
+        {
+          "text": "of course",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "there is",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "horse",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "there are",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "have a look",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "sheep",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "vegetable",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "climb",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "face",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "fruit",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "chicken",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "bear",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        },
+        {
+          "text": "pig",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "visit",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "tomorrow",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "plane",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "get up",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "o'clock",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "from",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "sea",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "swimsuit",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "sock",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "fish",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        },
+        {
+          "text": "hooray",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "sports day",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "win",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "month",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "hundred",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "metre",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "every",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "day",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "luck",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "good luck",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "come on",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "high jump",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "long jump",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "How about ...?",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        },
+        {
+          "text": "subject",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "family",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "dinner",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "year",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "New Year",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "Chinese",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "festival",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "the Spring Festival",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "I see.",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "peanut",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "merry",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "Christmas",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        },
+        {
+          "text": "Merry Christmas!",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "教材Module词表文本逐项核对；四上扫描词表第71-72页OCR后与页面图像逐项核对",
+    "note": "移除表头脚注、规范连字/弯引号；教材括号内别称和等号展开式保留sourceText，听写text使用词头。教材缩写单独行保留。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72
+    ],
+    "reviewMethod": "教材Module词表文本逐项核对；四上扫描词表第71-72页OCR后与页面图像逐项核对",
+    "transformations": "移除表头脚注、规范连字/弯引号；教材括号内别称和等号展开式保留sourceText，听写text使用词头。教材缩写单独行保留。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard",
+  "counts": {
+    "words": 146,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}

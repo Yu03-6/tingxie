@@ -1,0 +1,621 @@
+{
+  "id": "g4-lower",
+  "name": "四年级下册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g4-lower",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "across from",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "next to",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "between",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0510.mp3"
+        },
+        {
+          "text": "restaurant",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0662.mp3"
+        },
+        {
+          "text": "post office",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0652.mp3"
+        },
+        {
+          "text": "bank",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "grocery",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "turn left",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "turn right",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "go straight",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "crossroads",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "neighbourhood",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "send",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0503.mp3"
+        },
+        {
+          "text": "get",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0665.mp3"
+        },
+        {
+          "text": "money",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "get to",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "before",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0801.mp3"
+        },
+        {
+          "text": "leave",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "toy",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "hospital",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0259.mp3"
+        },
+        {
+          "text": "bookshop",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84
+        },
+        {
+          "text": "school",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0063.mp3"
+        },
+        {
+          "text": "supermarket",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0431.mp3"
+        },
+        {
+          "text": "ball",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0197.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "city",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "street",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0664.mp3"
+        },
+        {
+          "text": "sports centre",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "hotel",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0806.mp3"
+        },
+        {
+          "text": "square",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "buy toys",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "see a film",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0696.mp3"
+        },
+        {
+          "text": "go boating",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0532.mp3"
+        },
+        {
+          "text": "busy",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0229.mp3"
+        },
+        {
+          "text": "station",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "place",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0268.mp3"
+        },
+        {
+          "text": "thing",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0580.mp3"
+        },
+        {
+          "text": "stay",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0737.mp3"
+        },
+        {
+          "text": "star",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0837.mp3"
+        },
+        {
+          "text": "king",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "central",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "take photos",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84
+        },
+        {
+          "text": "museum",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0651.mp3"
+        },
+        {
+          "text": "dream",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0849.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "sea",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0085.mp3"
+        },
+        {
+          "text": "ski",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 84
+        },
+        {
+          "text": "eat seafood",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 84
+        },
+        {
+          "text": "visit the Mogao Caves",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85
+        },
+        {
+          "text": "West Lake",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85
+        },
+        {
+          "text": "row a boat",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85
+        },
+        {
+          "text": "the Great Wall",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0587.mp3"
+        },
+        {
+          "text": "take photos",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85
+        },
+        {
+          "text": "summer vacation",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85
+        },
+        {
+          "text": "travel",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0708.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "reading",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "skateboarding",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "singing",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "dancing",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0543.mp3"
+        },
+        {
+          "text": "doing jigsaw puzzles",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "making models",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "collecting erasers",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "different",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0841.mp3"
+        },
+        {
+          "text": "hobby",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0719.mp3"
+        },
+        {
+          "text": "stamp",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        },
+        {
+          "text": "catch",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 85
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "go for a picnic",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "play the violin",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "go skating",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "go camping",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "do the housework",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "free",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0400.mp3"
+        },
+        {
+          "text": "never",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "once a week",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "twice a week",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        },
+        {
+          "text": "three times a week",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 85
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "Canada",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0129.mp3"
+        },
+        {
+          "text": "Australia",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "the UK",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "the USA",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "China",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0128.mp3"
+        },
+        {
+          "text": "koala",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "maple leaves",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "Big Ben",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "Disneyland",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "campfire",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        },
+        {
+          "text": "cute",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0048.mp3"
+        },
+        {
+          "text": "country",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0735.mp3"
+        },
+        {
+          "text": "pretty",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 85
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      84,
+      85
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 87,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 32
+  }
+}

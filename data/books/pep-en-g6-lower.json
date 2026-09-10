@@ -671,12 +671,14 @@
     "words": 91,
     "writing": 0,
     "recognition": 0,
-    "recognitionNew": 0
+    "recognitionNew": 0,
+    "recorded": 91
   },
   "source": {
     "url": "https://media.githubusercontent.com/media/LYUGUISONG/Textbooks/main/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%E8%8B%B1%E8%AF%AD%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
     "repository": "https://github.com/LYUGUISONG/Textbooks",
     "method": "Local OCR with appendix comparison and page-image corrections",
     "note": "Edition is verified per volume; current Chengdu school adoption is not verified."
-  }
+  },
+  "versionId": "pep"
 }

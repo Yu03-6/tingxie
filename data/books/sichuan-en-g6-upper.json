@@ -1,0 +1,907 @@
+{
+  "id": "g6-upper",
+  "sourceId": "sichuan-en-g6-upper",
+  "versionId": "newpath",
+  "name": "六年级上册",
+  "edition": "2019年7月第3版（2021年印刷）",
+  "language": "en-US",
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%B7%9D%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "Word List appendix, visually transcribed page by page",
+    "note": "2021教材镜像；按原书Word List课次收录，星号项为口头掌握词汇。"
+  },
+  "verification": {
+    "method": "manual visual transcription",
+    "pdfPages": [
+      83,
+      84,
+      85
+    ]
+  },
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1 School Life",
+      "items": [
+        {
+          "text": "class",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0171.mp3"
+        },
+        {
+          "text": "grade",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "clean the blackboard",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "clean the classroom",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "do word exercises",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "drink water",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "wait for a classmate",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "have a lesson",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "know",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0450.mp3"
+        },
+        {
+          "text": "welcome",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "family name",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "first name",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "full name",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83
+        },
+        {
+          "text": "meet",
+          "kind": "words",
+          "lesson": "1.1",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0581.mp3"
+        },
+        {
+          "text": "art room",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "computer room",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "floor",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0237.mp3"
+        },
+        {
+          "text": "on the ground floor",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "library",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0263.mp3"
+        },
+        {
+          "text": "music room",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "toilet",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0261.mp3"
+        },
+        {
+          "text": "office",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "playground",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0256.mp3"
+        },
+        {
+          "text": "teaching building",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "our",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0451.mp3"
+        },
+        {
+          "text": "kind",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0244.mp3"
+        },
+        {
+          "text": "It's very kind of you.",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "show you around",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83,
+          "oralOnly": true
+        },
+        {
+          "text": "wait a minute",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "over there",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "very much",
+          "kind": "words",
+          "lesson": "1.2",
+          "pdfPage": 83
+        },
+        {
+          "text": "practise English",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "make a card",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "have a party",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "celebrate Christmas",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "tell a story",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "do sports",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "day",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0476.mp3"
+        },
+        {
+          "text": "send cards / flowers",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "usually",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0546.mp3"
+        },
+        {
+          "text": "maybe",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        },
+        {
+          "text": "think",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0367.mp3"
+        },
+        {
+          "text": "wrong",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0762.mp3"
+        },
+        {
+          "text": "in fact",
+          "kind": "words",
+          "lesson": "1.3",
+          "pdfPage": 83
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2 Visiting Friends",
+      "items": [
+        {
+          "text": "living room",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0356.mp3"
+        },
+        {
+          "text": "dining room",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84
+        },
+        {
+          "text": "bathroom",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0366.mp3"
+        },
+        {
+          "text": "study",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0365.mp3"
+        },
+        {
+          "text": "kitchen",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0364.mp3"
+        },
+        {
+          "text": "opposite",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84
+        },
+        {
+          "text": "everyone",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0282.mp3"
+        },
+        {
+          "text": "visit",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0695.mp3"
+        },
+        {
+          "text": "take a seat",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84
+        },
+        {
+          "text": "tank",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "oralOnly": true
+        },
+        {
+          "text": "put",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0208.mp3"
+        },
+        {
+          "text": "plant",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0069.mp3"
+        },
+        {
+          "text": "help yourself to",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84
+        },
+        {
+          "text": "bottom",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84,
+          "oralOnly": true
+        },
+        {
+          "text": "keep...clean",
+          "kind": "words",
+          "lesson": "2.1",
+          "pdfPage": 84
+        },
+        {
+          "text": "open the window",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "close the door",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "turn on the light",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "turn off the light",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "make a phone call",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "far",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0669.mp3"
+        },
+        {
+          "text": "near",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "walk",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0265.mp3"
+        },
+        {
+          "text": "came",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "home",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0196.mp3"
+        },
+        {
+          "text": "drank",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0802.mp3"
+        },
+        {
+          "text": "come with me",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "too much",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "May I use...?",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "May I have a look?",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "often",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0472.mp3"
+        },
+        {
+          "text": "ball",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0197.mp3"
+        },
+        {
+          "text": "palace",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "get ready",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "put on",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84
+        },
+        {
+          "text": "dear",
+          "kind": "words",
+          "lesson": "2.2",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0392.mp3"
+        },
+        {
+          "text": "turn on the TV",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "turn off the computer",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "make tea",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "cook the meals",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "set the table",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84,
+          "audio": "assets/audio/word-0428.mp3"
+        },
+        {
+          "text": "do the dishes",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "wash the cups",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "What a mess!",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84,
+          "oralOnly": true
+        },
+        {
+          "text": "Take it easy.",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "No problem.",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        },
+        {
+          "text": "Hurry up!",
+          "kind": "words",
+          "lesson": "2.3",
+          "pdfPage": 84
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3 Interesting Festivals",
+      "items": [
+        {
+          "text": "be made of pumpkins",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "jack-o'-lantern",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "follow the witch",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "ghost",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "bat",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "hate",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "be afraid of",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "always",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0253.mp3"
+        },
+        {
+          "text": "festival",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0610.mp3"
+        },
+        {
+          "text": "more than",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "used to",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "dress up as",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "play tricks on",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "try to",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "back",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0221.mp3"
+        },
+        {
+          "text": "pick up",
+          "kind": "words",
+          "lesson": "3.1",
+          "pdfPage": 85
+        },
+        {
+          "text": "pie",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "corn",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "cabbage",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "potatoes",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "sweet potatoes",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "moon cakes",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "turkey",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "own",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "e-mail",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "celebrate the harvest",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85
+        },
+        {
+          "text": "lunar calendar",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "delicious",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85,
+          "oralOnly": true,
+          "audio": "assets/audio/word-0426.mp3"
+        },
+        {
+          "text": "flavour",
+          "kind": "words",
+          "lesson": "3.2",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "bell",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "coloured lights",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "a pretty Christmas tree",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "gift",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0143.mp3"
+        },
+        {
+          "text": "come down",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "parents",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "give us presents",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "a large number of",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "make a list of",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "all over the world",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "sometimes",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85,
+          "audio": "assets/audio/word-0453.mp3"
+        },
+        {
+          "text": "on the night of",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85
+        },
+        {
+          "text": "reindeer",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "pull the sleigh",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85,
+          "oralOnly": true
+        },
+        {
+          "text": "stocking",
+          "kind": "words",
+          "lesson": "3.3",
+          "pdfPage": 85,
+          "oralOnly": true
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "words": 135,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 35
+  }
+}

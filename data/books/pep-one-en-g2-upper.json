@@ -1,0 +1,430 @@
+{
+  "id": "g2-upper",
+  "name": "二年级上册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g2-upper",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "father",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0023.mp3"
+        },
+        {
+          "text": "mother",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0022.mp3"
+        },
+        {
+          "text": "brother",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0030.mp3"
+        },
+        {
+          "text": "sister",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0025.mp3"
+        },
+        {
+          "text": "grandmother",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0021.mp3"
+        },
+        {
+          "text": "grandfather",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0020.mp3"
+        },
+        {
+          "text": "who",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0114.mp3"
+        },
+        {
+          "text": "he",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0122.mp3"
+        },
+        {
+          "text": "she",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0125.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "classmate",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0121.mp3"
+        },
+        {
+          "text": "friend",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0014.mp3"
+        },
+        {
+          "text": "woman",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0118.mp3"
+        },
+        {
+          "text": "girl",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0115.mp3"
+        },
+        {
+          "text": "man",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0119.mp3"
+        },
+        {
+          "text": "boy",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0117.mp3"
+        },
+        {
+          "text": "look",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62
+        },
+        {
+          "text": "his",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0241.mp3"
+        },
+        {
+          "text": "name",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0001.mp3"
+        },
+        {
+          "text": "her",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0142.mp3"
+        },
+        {
+          "text": "or",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0152.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "big",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0028.mp3"
+        },
+        {
+          "text": "tall",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0055.mp3"
+        },
+        {
+          "text": "pretty",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62
+        },
+        {
+          "text": "thin",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0138.mp3"
+        },
+        {
+          "text": "short",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0134.mp3"
+        },
+        {
+          "text": "handsome",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62
+        },
+        {
+          "text": "new",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0070.mp3"
+        },
+        {
+          "text": "does",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "bookshop",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62
+        },
+        {
+          "text": "zoo",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0043.mp3"
+        },
+        {
+          "text": "school",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0063.mp3"
+        },
+        {
+          "text": "supermarket",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0431.mp3"
+        },
+        {
+          "text": "park",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0257.mp3"
+        },
+        {
+          "text": "hospital",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0259.mp3"
+        },
+        {
+          "text": "go",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0042.mp3"
+        },
+        {
+          "text": "to",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "grass",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0068.mp3"
+        },
+        {
+          "text": "tree",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0071.mp3"
+        },
+        {
+          "text": "flower",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0067.mp3"
+        },
+        {
+          "text": "boat",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0192.mp3"
+        },
+        {
+          "text": "lake",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0525.mp3"
+        },
+        {
+          "text": "hill",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0527.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "Christmas",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0592.mp3"
+        },
+        {
+          "text": "Father Christmas",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "Christmas tree",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "card",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0145.mp3"
+        },
+        {
+          "text": "present",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "New Year",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "merry",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "too",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "here",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "for",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "thank",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "happy",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0750.mp3"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      62,
+      63
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 54,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 39
+  }
+}

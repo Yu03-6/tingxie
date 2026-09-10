@@ -1,0 +1,718 @@
+{
+  "id": "g6-upper",
+  "name": "六年级上册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g6-upper",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "morning tea",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "soup",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0187.mp3"
+        },
+        {
+          "text": "garden",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0064.mp3"
+        },
+        {
+          "text": "the Potala Palace",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "the Summer Palace",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "the Terracotta Army",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "vacation",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0563.mp3"
+        },
+        {
+          "text": "taste",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0166.mp3"
+        },
+        {
+          "text": "map",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0205.mp3"
+        },
+        {
+          "text": "north",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "south",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "east",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "west",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "famous",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "temple",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "around",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "the Yangtze River",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "foggy",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "spicy",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "silk",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        },
+        {
+          "text": "forest",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0523.mp3"
+        },
+        {
+          "text": "stone",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 94
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "London",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "Toronto",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "Sydney",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0306.mp3"
+        },
+        {
+          "text": "Washington",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "the British Museum",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "the CN Tower",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "kangaroo",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "the Opera House",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "the White House",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "clock",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0382.mp3"
+        },
+        {
+          "text": "speak",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0284.mp3"
+        },
+        {
+          "text": "French",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "Tower Bridge",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "the London Eye",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "hiking",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0717.mp3"
+        },
+        {
+          "text": "sunrise",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        },
+        {
+          "text": "president",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 94
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "reptile",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "bird",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0040.mp3"
+        },
+        {
+          "text": "fish",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0039.mp3"
+        },
+        {
+          "text": "mammal",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "insect",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "penguin",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "shark",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "whale",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "kind",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0244.mp3"
+        },
+        {
+          "text": "metre",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0782.mp3"
+        },
+        {
+          "text": "spend",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "trunk",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "peanut",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "fan",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0343.mp3"
+        },
+        {
+          "text": "tusk",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "Africa",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "Asia",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        },
+        {
+          "text": "smart",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 95
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "scared",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95
+        },
+        {
+          "text": "worried",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0749.mp3"
+        },
+        {
+          "text": "angry",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0746.mp3"
+        },
+        {
+          "text": "proud",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95
+        },
+        {
+          "text": "sad",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0748.mp3"
+        },
+        {
+          "text": "excited",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0628.mp3"
+        },
+        {
+          "text": "happy",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0750.mp3"
+        },
+        {
+          "text": "ill",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0761.mp3"
+        },
+        {
+          "text": "win",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0556.mp3"
+        },
+        {
+          "text": "race",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0843.mp3"
+        },
+        {
+          "text": "find",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0156.mp3"
+        },
+        {
+          "text": "cry",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95
+        },
+        {
+          "text": "because",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0562.mp3"
+        },
+        {
+          "text": "test",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95
+        },
+        {
+          "text": "competition",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95
+        },
+        {
+          "text": "hurt",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0760.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "inventor",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "artist",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "scientist",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0732.mp3"
+        },
+        {
+          "text": "poet",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "writer",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "American",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0590.mp3"
+        },
+        {
+          "text": "French",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "Danish",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "poem",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0713.mp3"
+        },
+        {
+          "text": "paint",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0565.mp3"
+        },
+        {
+          "text": "invention",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "invent",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "study",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0365.mp3"
+        },
+        {
+          "text": "story",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0270.mp3"
+        },
+        {
+          "text": "university",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0738.mp3"
+        },
+        {
+          "text": "deaf",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "blind",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95
+        },
+        {
+          "text": "fall",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 95,
+          "audio": "assets/audio/word-0324.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "dumpling",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "fan",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96,
+          "audio": "assets/audio/word-0343.mp3"
+        },
+        {
+          "text": "ice lantern",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "bring",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "be afraid of",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "hear",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96,
+          "audio": "assets/audio/word-0167.mp3"
+        },
+        {
+          "text": "pen pal",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96,
+          "audio": "assets/audio/word-0718.mp3"
+        },
+        {
+          "text": "broken",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96,
+          "audio": "assets/audio/word-0808.mp3"
+        },
+        {
+          "text": "pity",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "prize",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        },
+        {
+          "text": "look forward to",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 96
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      94,
+      95,
+      96
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 102,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 38
+  }
+}

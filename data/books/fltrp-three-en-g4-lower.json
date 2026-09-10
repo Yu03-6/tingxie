@@ -1,0 +1,1043 @@
+{
+  "id": "g4-lower",
+  "name": "四年级下册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-three-en-g4-lower",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "nice",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "友好的,亲切的,讨人喜欢的"
+        },
+        {
+          "text": "clever",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "聪明的"
+        },
+        {
+          "text": "naughty",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "淘气的",
+          "sourceText": "*naughty"
+        },
+        {
+          "text": "a bit",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "稍微,有点儿"
+        },
+        {
+          "text": "shy",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "害羞的"
+        },
+        {
+          "text": "answer",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "接(电话)"
+        },
+        {
+          "text": "call",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "电话;(给......)打电话"
+        },
+        {
+          "text": "bad",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "不好的,坏的"
+        },
+        {
+          "text": "cool",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "酷的"
+        },
+        {
+          "text": "aunt",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "姨母;姑母;舅母;伯母;婶母"
+        },
+        {
+          "text": "uncle",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "伯父;叔父;舅父;姑父;姨父"
+        },
+        {
+          "text": "big",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "年龄较大的"
+        },
+        {
+          "text": "little",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "幼小的,年幼的"
+        },
+        {
+          "text": "cute",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "可爱的"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "city",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "城市"
+        },
+        {
+          "text": "ship",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "船"
+        },
+        {
+          "text": "beautiful",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "美丽的"
+        },
+        {
+          "text": "whose",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "谁的"
+        },
+        {
+          "text": "queen",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "女王"
+        },
+        {
+          "text": "close",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "近的,接近的"
+        },
+        {
+          "text": "old",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "年代久的,古老的"
+        },
+        {
+          "text": "famous",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "著名的"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "robot",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "机器人"
+        },
+        {
+          "text": "will",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "将,将会"
+        },
+        {
+          "text": "everything",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "所有事情"
+        },
+        {
+          "text": "one day",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "(将来)有一天"
+        },
+        {
+          "text": "housework",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "家务活"
+        },
+        {
+          "text": "learn",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "学习"
+        },
+        {
+          "text": "our",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "我们的"
+        },
+        {
+          "text": "homework",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "家庭作业"
+        },
+        {
+          "text": "won't",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "将不会",
+          "sourceText": "won't = will not"
+        },
+        {
+          "text": "Tuesday",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "星期二"
+        },
+        {
+          "text": "Wednesday",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "星期三"
+        },
+        {
+          "text": "Thursday",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "星期四"
+        },
+        {
+          "text": "Friday",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "星期五"
+        },
+        {
+          "text": "have",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "有,拥有"
+        },
+        {
+          "text": "next",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "下一个的"
+        },
+        {
+          "text": "week",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "星期,周"
+        },
+        {
+          "text": "holiday",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "假期"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "take",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "带,拿"
+        },
+        {
+          "text": "fly",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "飞"
+        },
+        {
+          "text": "picnic",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "野餐"
+        },
+        {
+          "text": "great",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "太好了,好极了"
+        },
+        {
+          "text": "why",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "为什么"
+        },
+        {
+          "text": "Why not?",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "为什么不呢?"
+        },
+        {
+          "text": "because",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "因为"
+        },
+        {
+          "text": "so",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "所以"
+        },
+        {
+          "text": "cloudy",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "多云的"
+        },
+        {
+          "text": "weather",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "天气"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "was",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "(am, is的过去式)是"
+        },
+        {
+          "text": "then",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "当时,那时"
+        },
+        {
+          "text": "grandparent",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "祖父;祖母;外祖父;外祖母"
+        },
+        {
+          "text": "were",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "(are的过去式)是"
+        },
+        {
+          "text": "young",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "年轻的"
+        },
+        {
+          "text": "old",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "老的,年老的"
+        },
+        {
+          "text": "hair",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "头发"
+        },
+        {
+          "text": "so",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "这么, 那么"
+        },
+        {
+          "text": "short",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "短的"
+        },
+        {
+          "text": "long",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "长的"
+        },
+        {
+          "text": "wasn't",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "不是",
+          "sourceText": "wasn't = was not"
+        },
+        {
+          "text": "weren't",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "不是",
+          "sourceText": "weren't = were not"
+        },
+        {
+          "text": "clean",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "干净的"
+        },
+        {
+          "text": "dirty",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "脏的"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "yesterday",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "昨天"
+        },
+        {
+          "text": "out",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "不在家(的);在外面(的)"
+        },
+        {
+          "text": "well",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "健康的"
+        },
+        {
+          "text": "thanks",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "谢谢"
+        },
+        {
+          "text": "sun",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "太阳"
+        },
+        {
+          "text": "lesson",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "一节课,一堂课"
+        },
+        {
+          "text": "village",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "乡村,村子"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "had",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(have的过去式)度过"
+        },
+        {
+          "text": "phone",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(给......)打电话"
+        },
+        {
+          "text": "cook",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "烹调;煮;烧"
+        },
+        {
+          "text": "really",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "真的"
+        },
+        {
+          "text": "wash",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "洗"
+        },
+        {
+          "text": "What about...?",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "......怎么样?"
+        },
+        {
+          "text": "did",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(do的过去式)助动词"
+        },
+        {
+          "text": "didn't",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "没有",
+          "sourceText": "didn't = did not"
+        },
+        {
+          "text": "computer",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "计算机;电脑"
+        },
+        {
+          "text": "love",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "爱;喜欢"
+        },
+        {
+          "text": "him",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(宾格)他"
+        },
+        {
+          "text": "Mrs",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "太太,夫人"
+        },
+        {
+          "text": "Miss",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "小姐"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "sang",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(sing的过去式)唱歌"
+        },
+        {
+          "text": "beautifully",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "优美地,动听地"
+        },
+        {
+          "text": "saw",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(see的过去式)看见"
+        },
+        {
+          "text": "game",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "游戏;比赛"
+        },
+        {
+          "text": "last",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "最近过去的"
+        },
+        {
+          "text": "fun",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "有趣的事"
+        },
+        {
+          "text": "went",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(go的过去式)去"
+        },
+        {
+          "text": "there",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "在那儿,往那里"
+        },
+        {
+          "text": "ate",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(eat的过去式)吃"
+        },
+        {
+          "text": "drank",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(drink的过去式)喝,饮"
+        },
+        {
+          "text": "drink",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "饮料"
+        },
+        {
+          "text": "time",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "一段时间"
+        },
+        {
+          "text": "have a good time",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "玩得开心"
+        },
+        {
+          "text": "busy",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "忙的,忙碌的"
+        },
+        {
+          "text": "took",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(take的过去式)拍摄"
+        },
+        {
+          "text": "tell",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "告诉,告知"
+        },
+        {
+          "text": "great",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "非常好的,令人愉快的"
+        },
+        {
+          "text": "delicious",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "美味的,可口的"
+        },
+        {
+          "text": "made",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(make的过去式)做,制作"
+        },
+        {
+          "text": "poster",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "海报,招贴画",
+          "sourceText": "*poster"
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "welcome",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "欢迎"
+        },
+        {
+          "text": "postcard",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "明信片"
+        },
+        {
+          "text": "cousin",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "表(堂)兄弟;表(堂)姐妹"
+        },
+        {
+          "text": "dear",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "亲爱的"
+        },
+        {
+          "text": "on holiday",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "在休假,在度假"
+        },
+        {
+          "text": "travel",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "旅行;游历"
+        },
+        {
+          "text": "came",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "(come的过去式)来"
+        },
+        {
+          "text": "pop",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "流行音乐的"
+        },
+        {
+          "text": "concert",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "音乐会"
+        },
+        {
+          "text": "earth",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "地球"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "fall",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "掉下,落下;摔倒"
+        },
+        {
+          "text": "fall off",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "跌落"
+        },
+        {
+          "text": "fell",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(fall的过去式)掉下,落下;摔倒"
+        },
+        {
+          "text": "fall down",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "摔倒,跌倒;坍塌"
+        },
+        {
+          "text": "found",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(find的过去式)发现,找到"
+        },
+        {
+          "text": "town",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "城镇,市镇"
+        },
+        {
+          "text": "happen",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "发生"
+        },
+        {
+          "text": "ride",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "骑车"
+        },
+        {
+          "text": "then",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "然后"
+        },
+        {
+          "text": "thirsty",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(口)渴的"
+        },
+        {
+          "text": "water",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "水"
+        },
+        {
+          "text": "bought",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(buy的过去式)买"
+        },
+        {
+          "text": "watermelon",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "西瓜"
+        },
+        {
+          "text": "carried",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(carry的过去式)拿,搬"
+        },
+        {
+          "text": "bump",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "撞伤",
+          "sourceText": "*bump"
+        },
+        {
+          "text": "hospital",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "医院"
+        },
+        {
+          "text": "had",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "(have的过去式)吃;喝"
+        },
+        {
+          "text": "chocolate",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "巧克力"
+        },
+        {
+          "text": "stomach ache",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "胃痛"
+        },
+        {
+          "text": "cold",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "感冒"
+        },
+        {
+          "text": "headache",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "头痛"
+        },
+        {
+          "text": "fever",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "发烧"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%9B%9B%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+    "method": "教材Module词表文本逐项核对；四上扫描词表第71-72页OCR后与页面图像逐项核对",
+    "note": "移除表头脚注、规范连字/弯引号；教材括号内别称和等号展开式保留sourceText，听写text使用词头。教材缩写单独行保留。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72
+    ],
+    "reviewMethod": "教材Module词表文本逐项核对；四上扫描词表第71-72页OCR后与页面图像逐项核对",
+    "transformations": "移除表头脚注、规范连字/弯引号；教材括号内别称和等号展开式保留sourceText，听写text使用词头。教材缩写单独行保留。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard",
+  "counts": {
+    "words": 135,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}

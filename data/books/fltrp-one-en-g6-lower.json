@@ -1,0 +1,742 @@
+{
+  "id": "g6-lower",
+  "name": "六年级下册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-one-en-g6-lower",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "hot dog",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "热狗"
+        },
+        {
+          "text": "cashier",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "*cashier",
+          "meaning": "收银员"
+        },
+        {
+          "text": "cola",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "*cola",
+          "meaning": "可乐;一杯可乐"
+        },
+        {
+          "text": "soup",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "汤"
+        },
+        {
+          "text": "dollar",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "美元"
+        },
+        {
+          "text": "cent",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "美分"
+        },
+        {
+          "text": "enjoy",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "享用,享受"
+        },
+        {
+          "text": "meal",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "餐"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "later",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "后来,以后"
+        },
+        {
+          "text": "to go",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "剩余"
+        },
+        {
+          "text": "dark",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "黑色的;黑暗的"
+        },
+        {
+          "text": "cloud",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "云"
+        },
+        {
+          "text": "Oh dear!",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "哎呀!天哪!"
+        },
+        {
+          "text": "dry",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "干的"
+        },
+        {
+          "text": "stay",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "保持,维持"
+        },
+        {
+          "text": "cloudy",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "多云的"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "close",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "合上,关闭"
+        },
+        {
+          "text": "quickly",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "快地,快速地"
+        },
+        {
+          "text": "left",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "(leave的过去式)丢下"
+        },
+        {
+          "text": "shine",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "(太阳)发光,照耀"
+        },
+        {
+          "text": "cry",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "喊,叫"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "thing",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "东西,事物"
+        },
+        {
+          "text": "need",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "需要"
+        },
+        {
+          "text": "grab",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "抓住;抓取"
+        },
+        {
+          "text": "balloon",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "气球"
+        },
+        {
+          "text": "fly away",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "飞走"
+        },
+        {
+          "text": "stairs",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "sourceText": "*stairs",
+          "meaning": "(常复)楼梯"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "telephone",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "电话"
+        },
+        {
+          "text": "ring",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "响"
+        },
+        {
+          "text": "bell",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "门铃"
+        },
+        {
+          "text": "bark",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "sourceText": "*bark",
+          "meaning": "(狗)吠,叫"
+        },
+        {
+          "text": "arrive",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "到达"
+        },
+        {
+          "text": "hardly",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "几乎不"
+        },
+        {
+          "text": "raincoat",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "sourceText": "*raincoat",
+          "meaning": "雨衣"
+        },
+        {
+          "text": "tunnel",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "sourceText": "*tunnel",
+          "meaning": "隧道"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "home",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "回家"
+        },
+        {
+          "text": "earth",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "地球"
+        },
+        {
+          "text": "space",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "太空"
+        },
+        {
+          "text": "travel",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "旅行"
+        },
+        {
+          "text": "interested",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "感兴趣的"
+        },
+        {
+          "text": "be interested in",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "对......感兴趣"
+        },
+        {
+          "text": "spaceship",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "sourceText": "*spaceship",
+          "meaning": "宇宙飞船"
+        },
+        {
+          "text": "surprised",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "惊奇的;惊讶的"
+        },
+        {
+          "text": "made",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "(make的过去式)做,制作"
+        },
+        {
+          "text": "model",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "模型;模范,榜样"
+        },
+        {
+          "text": "taikonaut",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "sourceText": "*taikonaut",
+          "meaning": "(中国的)太空人,宇航员"
+        },
+        {
+          "text": "national",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "国家的"
+        },
+        {
+          "text": "flag",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "旗"
+        },
+        {
+          "text": "seed",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "sourceText": "*seed",
+          "meaning": "种子"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "flew",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(fly的过去式)飞,飞行"
+        },
+        {
+          "text": "spent",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(spend的过去式) 度过"
+        },
+        {
+          "text": "video",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "录像"
+        },
+        {
+          "text": "someday",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "*someday",
+          "meaning": "有朝一日"
+        },
+        {
+          "text": "born",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "出生,诞生"
+        },
+        {
+          "text": "illness",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "病,疾病"
+        },
+        {
+          "text": "round",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "在......各处"
+        },
+        {
+          "text": "all over the world",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "全世界"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "cup",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "杯子"
+        },
+        {
+          "text": "classmate",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "同班同学"
+        },
+        {
+          "text": "baseball",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "棒球"
+        },
+        {
+          "text": "brought",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(bring的过去式)带来"
+        },
+        {
+          "text": "more",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "更强烈地"
+        },
+        {
+          "text": "mistake",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "错误"
+        },
+        {
+          "text": "make mistakes",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "犯错误"
+        },
+        {
+          "text": "word",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "单词,字"
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "wish",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "愿望,希望;祝,祝愿"
+        },
+        {
+          "text": "best wishes",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "最美好的祝愿"
+        },
+        {
+          "text": "luck",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "运气"
+        },
+        {
+          "text": "primary",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "初级的,初等的;小学的"
+        },
+        {
+          "text": "primary school",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "小学"
+        },
+        {
+          "text": "keep",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "保留"
+        },
+        {
+          "text": "forever",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "sourceText": "*forever",
+          "meaning": "永远"
+        },
+        {
+          "text": "joy",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "sourceText": "*joy",
+          "meaning": "乐趣"
+        },
+        {
+          "text": "future",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "未来,将来"
+        },
+        {
+          "text": "taught",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "(teach的过去式)教,讲授"
+        },
+        {
+          "text": "wonderful",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "极好的,了不起的"
+        },
+        {
+          "text": "happiness",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "幸福,快乐"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "middle",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "中部的;中等的;中间"
+        },
+        {
+          "text": "middle school",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "中学"
+        },
+        {
+          "text": "speech",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "演说;讲演"
+        },
+        {
+          "text": "September",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "九月"
+        },
+        {
+          "text": "excited",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "激动的,兴奋的"
+        },
+        {
+          "text": "geography",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "地理"
+        },
+        {
+          "text": "same",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "相同的"
+        },
+        {
+          "text": "at the same time",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "同时"
+        },
+        {
+          "text": "little",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "极少量的"
+        },
+        {
+          "text": "keep on",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "保持"
+        },
+        {
+          "text": "sometime",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "sourceText": "*sometime",
+          "meaning": "某个时候"
+        },
+        {
+          "text": "each other",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "互相;彼此"
+        },
+        {
+          "text": "chemistry",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "化学"
+        },
+        {
+          "text": "physics",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "物理"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+    "method": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "note": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72,
+      73
+    ],
+    "reviewMethod": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "transformations": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard-primary",
+  "counts": {
+    "words": 91,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}

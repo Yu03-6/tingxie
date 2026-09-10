@@ -1,0 +1,525 @@
+{
+  "id": "g6-upper",
+  "name": "六年级上册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-one-en-g6-upper",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "how long",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "多长"
+        },
+        {
+          "text": "near",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "在......附近"
+        },
+        {
+          "text": "along",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "沿着"
+        },
+        {
+          "text": "more than",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "超过"
+        },
+        {
+          "text": "kilometre",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "千米,公里"
+        },
+        {
+          "text": "metre",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "米"
+        },
+        {
+          "text": "office building",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "办公大楼"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "Chinatown",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "*Chinatown",
+          "meaning": "唐人街,中国城"
+        },
+        {
+          "text": "town",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "城镇,市镇"
+        },
+        {
+          "text": "subject",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "主题,话题"
+        },
+        {
+          "text": "everywhere",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "到处"
+        },
+        {
+          "text": "spoke",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "(speak的过去式)说(某种语言)"
+        },
+        {
+          "text": "lion dance",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "舞狮"
+        },
+        {
+          "text": "tomb",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "坟墓"
+        },
+        {
+          "text": "wrote",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "(write的过去式)写"
+        },
+        {
+          "text": "when",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "当......时"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "stamp",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "邮票"
+        },
+        {
+          "text": "book",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "簿,册"
+        },
+        {
+          "text": "collect",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "收集"
+        },
+        {
+          "text": "hobby",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "爱好"
+        },
+        {
+          "text": "sun",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "太阳"
+        },
+        {
+          "text": "island",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "岛屿"
+        },
+        {
+          "text": "coconut",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "sourceText": "*coconut",
+          "meaning": "椰子"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "Thanksgiving",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "sourceText": "*Thanksgiving",
+          "meaning": "感恩节"
+        },
+        {
+          "text": "nearly",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "meaning": "差不多,将近"
+        },
+        {
+          "text": "the Spring Festival",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "meaning": "春节"
+        },
+        {
+          "text": "sure",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "meaning": "当然"
+        },
+        {
+          "text": "December",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "meaning": "十二月"
+        },
+        {
+          "text": "light",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 72,
+          "meaning": "灯"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "pleased",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "开心的,高兴的"
+        },
+        {
+          "text": "pretty",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "漂亮的"
+        },
+        {
+          "text": "French",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "法语"
+        },
+        {
+          "text": "phone",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "电话"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "world",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "世界"
+        },
+        {
+          "text": "difficult",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "困难的"
+        },
+        {
+          "text": "answer",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "回答,答复"
+        },
+        {
+          "text": "Miss",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "(称呼)女士,小姐"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "bamboo",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "竹子"
+        },
+        {
+          "text": "gave",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(give的过去式)给,送"
+        },
+        {
+          "text": "its",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "它的"
+        },
+        {
+          "text": "almost",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "几乎,差不多"
+        },
+        {
+          "text": "deaf",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "聋的"
+        },
+        {
+          "text": "frightened",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "*frightened",
+          "meaning": "害怕的,受惊的"
+        },
+        {
+          "text": "sh",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "嘘"
+        },
+        {
+          "text": "roar",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "*roar",
+          "meaning": "吼叫声"
+        },
+        {
+          "text": "fox",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "*fox",
+          "meaning": "狐狸"
+        },
+        {
+          "text": "at night",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "在夜晚"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "coin",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "硬币"
+        },
+        {
+          "text": "ever",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 73,
+          "meaning": "曾经"
+        },
+        {
+          "text": "tidy",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 73,
+          "meaning": "整齐的,整洁的"
+        },
+        {
+          "text": "messy",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 73,
+          "meaning": "凌乱的"
+        },
+        {
+          "text": "never",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 73,
+          "meaning": "从不"
+        },
+        {
+          "text": "blackboard",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 73,
+          "meaning": "黑板"
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "peace",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 73,
+          "meaning": "和平"
+        },
+        {
+          "text": "make peace",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 73,
+          "meaning": "维护和平"
+        },
+        {
+          "text": "member state",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 73,
+          "meaning": "成员国"
+        },
+        {
+          "text": "famous",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 73,
+          "meaning": "著名的"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "aunt",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "姑母;姨母;舅母;伯母;婶母"
+        },
+        {
+          "text": "forgot",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "(forget的过去式)忘记"
+        },
+        {
+          "text": "way",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "方式,方法"
+        },
+        {
+          "text": "cross",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 73,
+          "meaning": "穿过(马路等);渡过(河)"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E5%85%AD%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "note": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72,
+      73
+    ],
+    "reviewMethod": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "transformations": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard-primary",
+  "counts": {
+    "words": 61,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}

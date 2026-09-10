@@ -1,0 +1,496 @@
+{
+  "id": "g5-upper",
+  "name": "五年级上册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g5-upper",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "clever",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0448.mp3"
+        },
+        {
+          "text": "careless",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "polite",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0446.mp3"
+        },
+        {
+          "text": "quiet",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0245.mp3"
+        },
+        {
+          "text": "cute",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0048.mp3"
+        },
+        {
+          "text": "friendly",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "helpful",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0360.mp3"
+        },
+        {
+          "text": "active",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0842.mp3"
+        },
+        {
+          "text": "popular",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "talk",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0148.mp3"
+        },
+        {
+          "text": "party",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0498.mp3"
+        },
+        {
+          "text": "all",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0150.mp3"
+        },
+        {
+          "text": "but",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "sometimes",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0453.mp3"
+        },
+        {
+          "text": "bark",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "forget",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        },
+        {
+          "text": "with",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 93
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "wear glasses",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93
+        },
+        {
+          "text": "slim",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93
+        },
+        {
+          "text": "curly",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93
+        },
+        {
+          "text": "straight",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0657.mp3"
+        },
+        {
+          "text": "nice",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0002.mp3"
+        },
+        {
+          "text": "young",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0443.mp3"
+        },
+        {
+          "text": "teach",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0646.mp3"
+        },
+        {
+          "text": "guess",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93
+        },
+        {
+          "text": "has",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0131.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "animal",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0053.mp3"
+        },
+        {
+          "text": "elephant",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0051.mp3"
+        },
+        {
+          "text": "panda",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0046.mp3"
+        },
+        {
+          "text": "horse",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0407.mp3"
+        },
+        {
+          "text": "cow",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0406.mp3"
+        },
+        {
+          "text": "pig",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0409.mp3"
+        },
+        {
+          "text": "sheep",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0408.mp3"
+        },
+        {
+          "text": "bee",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0412.mp3"
+        },
+        {
+          "text": "farm",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0059.mp3"
+        },
+        {
+          "text": "fast",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0056.mp3"
+        },
+        {
+          "text": "why",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0273.mp3"
+        },
+        {
+          "text": "lovely",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93,
+          "audio": "assets/audio/word-0564.mp3"
+        },
+        {
+          "text": "butterfly",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 93
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "exercise book",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 93
+        },
+        {
+          "text": "pencil sharpener",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 93
+        },
+        {
+          "text": "a pair of scissors",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 93
+        },
+        {
+          "text": "pencil box",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "a box of crayons",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "please",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "only",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "also",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0123.mp3"
+        },
+        {
+          "text": "saleswoman",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "great",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "love",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0140.mp3"
+        },
+        {
+          "text": "how much",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        },
+        {
+          "text": "a lot",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 94
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "wonderful",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0500.mp3"
+        },
+        {
+          "text": "cool",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0193.mp3"
+        },
+        {
+          "text": "fantastic",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94
+        },
+        {
+          "text": "cartoons",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94
+        },
+        {
+          "text": "news shows",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94
+        },
+        {
+          "text": "nature shows",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 94
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "chore",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0231.mp3"
+        },
+        {
+          "text": "clean the room",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        },
+        {
+          "text": "make the bed",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94,
+          "audio": "assets/audio/word-0280.mp3"
+        },
+        {
+          "text": "take out the rubbish",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        },
+        {
+          "text": "wash clothes",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        },
+        {
+          "text": "tidy the desk",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        },
+        {
+          "text": "sweep the floor",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        },
+        {
+          "text": "call",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 94
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%94%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      93,
+      94
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 66,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 33
+  }
+}

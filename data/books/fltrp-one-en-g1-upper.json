@@ -1,0 +1,999 @@
+{
+  "id": "g1-upper",
+  "name": "一年级上册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-one-en-g1-upper",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "hello",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "hello (hi)",
+          "meaning": "你好"
+        },
+        {
+          "text": "aah",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "啊"
+        },
+        {
+          "text": "ooh",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "嗬"
+        },
+        {
+          "text": "I",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "我"
+        },
+        {
+          "text": "am",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "am (I'm = I am)",
+          "meaning": "是(我是)"
+        },
+        {
+          "text": "goodbye",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "goodbye (bye)",
+          "meaning": "再见"
+        },
+        {
+          "text": "How are you?",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "你好么?你好!"
+        },
+        {
+          "text": "woof",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "sourceText": "*woof",
+          "meaning": "(狗发出的)吠声"
+        },
+        {
+          "text": "no",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "不,不是"
+        },
+        {
+          "text": "yes",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "是,是的"
+        },
+        {
+          "text": "sorry",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "对不起"
+        },
+        {
+          "text": "fine",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "(身体)很好"
+        },
+        {
+          "text": "thank",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "谢谢"
+        },
+        {
+          "text": "you",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "你;你们"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "what",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "什么"
+        },
+        {
+          "text": "is",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "is (what's = what is)",
+          "meaning": "是(是什么)"
+        },
+        {
+          "text": "your",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "你的;你们的"
+        },
+        {
+          "text": "name",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "名字"
+        },
+        {
+          "text": "please",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "请"
+        },
+        {
+          "text": "ha ha",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "哈哈"
+        },
+        {
+          "text": "good",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "好的"
+        },
+        {
+          "text": "morning",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "早晨,上午"
+        },
+        {
+          "text": "Ms",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "女士"
+        },
+        {
+          "text": "my",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "我的"
+        },
+        {
+          "text": "bird",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "鸟"
+        },
+        {
+          "text": "tweet",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "*tweet",
+          "meaning": "(鸟)啾啾的叫声"
+        },
+        {
+          "text": "a",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "a(n)",
+          "meaning": "一个,一"
+        },
+        {
+          "text": "boy",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "男孩"
+        },
+        {
+          "text": "girl",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "女孩"
+        },
+        {
+          "text": "whoops",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "哎哟"
+        },
+        {
+          "text": "afternoon",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "下午"
+        },
+        {
+          "text": "panda",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "熊猫"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "sit",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "坐"
+        },
+        {
+          "text": "down",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "向下"
+        },
+        {
+          "text": "stand",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "站"
+        },
+        {
+          "text": "up",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "向上"
+        },
+        {
+          "text": "open",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "打开"
+        },
+        {
+          "text": "the",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "这(那)个;这(那)些"
+        },
+        {
+          "text": "window",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "窗户"
+        },
+        {
+          "text": "door",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "门"
+        },
+        {
+          "text": "See you!",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "再见!"
+        },
+        {
+          "text": "point",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "指"
+        },
+        {
+          "text": "to",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "向......"
+        },
+        {
+          "text": "aargh",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "啊"
+        },
+        {
+          "text": "desk",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "书桌"
+        },
+        {
+          "text": "chair",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "椅子"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "it",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "它"
+        },
+        {
+          "text": "it's",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "sourceText": "it's = it is",
+          "meaning": "它是"
+        },
+        {
+          "text": "red",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "红色;红色的"
+        },
+        {
+          "text": "aha",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "啊哈"
+        },
+        {
+          "text": "blue",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "蓝色;蓝色的"
+        },
+        {
+          "text": "wow",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "呀,哇"
+        },
+        {
+          "text": "yellow",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "黄色;黄色的"
+        },
+        {
+          "text": "oh",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "噢,哦"
+        },
+        {
+          "text": "colour",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "颜色"
+        },
+        {
+          "text": "green",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "绿色;绿色的"
+        },
+        {
+          "text": "now",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "现在"
+        },
+        {
+          "text": "black",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "黑色;黑色的"
+        },
+        {
+          "text": "white",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "白色;白色的"
+        },
+        {
+          "text": "dog",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "狗"
+        },
+        {
+          "text": "cat",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "猫"
+        },
+        {
+          "text": "and",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "和"
+        },
+        {
+          "text": "hey",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "嘿,喂"
+        },
+        {
+          "text": "look",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "看"
+        },
+        {
+          "text": "orange",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "橙色;橙色的"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "this",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "这个"
+        },
+        {
+          "text": "our",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "我们的"
+        },
+        {
+          "text": "teacher",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "教师"
+        },
+        {
+          "text": "school",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "学校"
+        },
+        {
+          "text": "classroom",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "教室"
+        },
+        {
+          "text": "Nice to meet you.",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "见到你真高兴。"
+        },
+        {
+          "text": "child",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "小孩,儿童"
+        },
+        {
+          "text": "that",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "那个"
+        },
+        {
+          "text": "bag",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 72,
+          "meaning": "包"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "schoolbag",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "书包"
+        },
+        {
+          "text": "book",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "书"
+        },
+        {
+          "text": "pen",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "钢笔"
+        },
+        {
+          "text": "pencil",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "铅笔"
+        },
+        {
+          "text": "ruler",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "直尺"
+        },
+        {
+          "text": "eraser",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "橡皮"
+        },
+        {
+          "text": "pencil case",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "sourceText": "*pencil case",
+          "meaning": "铅笔盒"
+        },
+        {
+          "text": "crayon",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 72,
+          "meaning": "蜡笔"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "new",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "新的"
+        },
+        {
+          "text": "kite",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "风筝"
+        },
+        {
+          "text": "or",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "或者"
+        },
+        {
+          "text": "not",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "not (isn't = is not)",
+          "meaning": "不(不是)"
+        },
+        {
+          "text": "monkey",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "猴子"
+        },
+        {
+          "text": "monster",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "*monster",
+          "meaning": "怪物"
+        },
+        {
+          "text": "help",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "救命(呼救用语)"
+        },
+        {
+          "text": "house",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "房屋,住宅"
+        },
+        {
+          "text": "box",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "箱,盒"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "how many",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "多少"
+        },
+        {
+          "text": "one",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "一 1"
+        },
+        {
+          "text": "two",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "二 2"
+        },
+        {
+          "text": "three",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "三 3"
+        },
+        {
+          "text": "four",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "四 4"
+        },
+        {
+          "text": "count",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "数"
+        },
+        {
+          "text": "say",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "说"
+        },
+        {
+          "text": "five",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "五 5"
+        },
+        {
+          "text": "six",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "六 6"
+        },
+        {
+          "text": "seven",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "七 7"
+        },
+        {
+          "text": "eight",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "八 8"
+        },
+        {
+          "text": "nine",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "九 9"
+        },
+        {
+          "text": "ten",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "十 10"
+        },
+        {
+          "text": "pink",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "粉色;粉色的"
+        },
+        {
+          "text": "ball",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "球"
+        },
+        {
+          "text": "so",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "这么,那么"
+        },
+        {
+          "text": "many",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "许多"
+        },
+        {
+          "text": "brown",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "棕色;棕色的"
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "how old",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "多大"
+        },
+        {
+          "text": "are",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "是"
+        },
+        {
+          "text": "too",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "也"
+        },
+        {
+          "text": "happy",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "快乐的"
+        },
+        {
+          "text": "birthday",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "生日"
+        },
+        {
+          "text": "but",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "但是,可是"
+        },
+        {
+          "text": "for",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "为,给,对"
+        },
+        {
+          "text": "You're welcome!",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "不客气!"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "father",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "父亲"
+        },
+        {
+          "text": "daddy",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "sourceText": "*daddy",
+          "meaning": "爸爸"
+        },
+        {
+          "text": "mother",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "母亲"
+        },
+        {
+          "text": "grandpa",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "祖父;外祖父"
+        },
+        {
+          "text": "grandma",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "祖母;外祖母"
+        },
+        {
+          "text": "friend",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "朋友"
+        },
+        {
+          "text": "his",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "他的"
+        },
+        {
+          "text": "car",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "汽车,轿车"
+        },
+        {
+          "text": "sister",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "姐妹"
+        },
+        {
+          "text": "brother",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "兄弟"
+        },
+        {
+          "text": "her",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "她的"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "note": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72
+    ],
+    "reviewMethod": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "transformations": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard-primary",
+  "counts": {
+    "words": 128,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}

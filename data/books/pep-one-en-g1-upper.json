@@ -1,0 +1,416 @@
+{
+  "id": "g1-upper",
+  "name": "一年级上册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g1-upper",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "book",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0160.mp3"
+        },
+        {
+          "text": "ruler",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0157.mp3"
+        },
+        {
+          "text": "pencil",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0159.mp3"
+        },
+        {
+          "text": "schoolbag",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63
+        },
+        {
+          "text": "teacher",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0111.mp3"
+        },
+        {
+          "text": "I",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63
+        },
+        {
+          "text": "have",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0027.mp3"
+        },
+        {
+          "text": "a/an",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 63
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "face",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0149.mp3"
+        },
+        {
+          "text": "ear",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0003.mp3"
+        },
+        {
+          "text": "eye",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0005.mp3"
+        },
+        {
+          "text": "nose",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0169.mp3"
+        },
+        {
+          "text": "mouth",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0006.mp3"
+        },
+        {
+          "text": "this",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63
+        },
+        {
+          "text": "is",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63
+        },
+        {
+          "text": "my",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 63
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "dog",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0036.mp3"
+        },
+        {
+          "text": "bird",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0040.mp3"
+        },
+        {
+          "text": "tiger",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0050.mp3"
+        },
+        {
+          "text": "monkey",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0049.mp3"
+        },
+        {
+          "text": "cat",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0038.mp3"
+        },
+        {
+          "text": "what",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63
+        },
+        {
+          "text": "it",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 63
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "one",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0094.mp3"
+        },
+        {
+          "text": "two",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0095.mp3"
+        },
+        {
+          "text": "three",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0096.mp3"
+        },
+        {
+          "text": "four",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0097.mp3"
+        },
+        {
+          "text": "five",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0092.mp3"
+        },
+        {
+          "text": "six",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0099.mp3"
+        },
+        {
+          "text": "seven",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0100.mp3"
+        },
+        {
+          "text": "eight",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0101.mp3"
+        },
+        {
+          "text": "nine",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0102.mp3"
+        },
+        {
+          "text": "ten",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0098.mp3"
+        },
+        {
+          "text": "how",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63
+        },
+        {
+          "text": "many",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63
+        },
+        {
+          "text": "are",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63
+        },
+        {
+          "text": "there",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0255.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "black",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0090.mp3"
+        },
+        {
+          "text": "yellow",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0083.mp3"
+        },
+        {
+          "text": "blue",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0078.mp3"
+        },
+        {
+          "text": "red",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0077.mp3"
+        },
+        {
+          "text": "green",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0076.mp3"
+        },
+        {
+          "text": "colour",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0075.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "apple",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0057.mp3"
+        },
+        {
+          "text": "pear",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64
+        },
+        {
+          "text": "banana",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0058.mp3"
+        },
+        {
+          "text": "orange",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0061.mp3"
+        },
+        {
+          "text": "do",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0467.mp3"
+        },
+        {
+          "text": "you",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64
+        },
+        {
+          "text": "like",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64,
+          "audio": "assets/audio/word-0035.mp3"
+        },
+        {
+          "text": "yes",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64
+        },
+        {
+          "text": "no",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 64
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      63,
+      64
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 52,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 37
+  }
+}

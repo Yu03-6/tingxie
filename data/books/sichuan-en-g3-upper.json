@@ -1,0 +1,1417 @@
+{
+  "id": "g3-upper",
+  "sourceId": "sichuan-en-g3-upper",
+  "versionId": "newpath",
+  "name": "三年级上册",
+  "edition": "2019年7月第5版（2021年印刷）",
+  "language": "en-US",
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%B7%9D%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%89%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%89%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "Word List appendix, visually transcribed page by page",
+    "note": "2021教材镜像；按原书Word List课次收录，星号项为口头掌握词汇。"
+  },
+  "verification": {
+    "method": "manual visual transcription",
+    "pdfPages": [
+      80,
+      81,
+      82,
+      83
+    ]
+  },
+  "units": [
+    {
+      "id": "lesson-a",
+      "name": "Lesson A",
+      "items": [
+        {
+          "text": "Baby Bear",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "Baby Lion",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "hello",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "hi",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "Let's go.",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "Mr Bear",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        },
+        {
+          "text": "Mrs Bear",
+          "kind": "words",
+          "lesson": "A",
+          "pdfPage": 80
+        }
+      ]
+    },
+    {
+      "id": "lesson-b",
+      "name": "Lesson B",
+      "items": [
+        {
+          "text": "daddy",
+          "kind": "words",
+          "lesson": "B",
+          "pdfPage": 80
+        },
+        {
+          "text": "I",
+          "kind": "words",
+          "lesson": "B",
+          "pdfPage": 80
+        },
+        {
+          "text": "love",
+          "kind": "words",
+          "lesson": "B",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0140.mp3"
+        },
+        {
+          "text": "mummy",
+          "kind": "words",
+          "lesson": "B",
+          "pdfPage": 80
+        },
+        {
+          "text": "you",
+          "kind": "words",
+          "lesson": "B",
+          "pdfPage": 80
+        }
+      ]
+    },
+    {
+      "id": "lesson-c",
+      "name": "Lesson C",
+      "items": [
+        {
+          "text": "aunt",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0033.mp3"
+        },
+        {
+          "text": "baby",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0031.mp3"
+        },
+        {
+          "text": "bye",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80
+        },
+        {
+          "text": "bye-bye",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80
+        },
+        {
+          "text": "goodbye",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80
+        },
+        {
+          "text": "grandma",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0018.mp3"
+        },
+        {
+          "text": "grandpa",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0019.mp3"
+        },
+        {
+          "text": "uncle",
+          "kind": "words",
+          "lesson": "C",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0032.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-d",
+      "name": "Lesson D",
+      "items": [
+        {
+          "text": "Cloudy",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0291.mp3"
+        },
+        {
+          "text": "Good morning!",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80
+        },
+        {
+          "text": "I'm...",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80,
+          "sourceText": "I'm...=I am..."
+        },
+        {
+          "text": "Nice to meet you.",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80
+        },
+        {
+          "text": "Rainy",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0292.mp3"
+        },
+        {
+          "text": "Sunny",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0286.mp3"
+        },
+        {
+          "text": "too",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80
+        },
+        {
+          "text": "Windy",
+          "kind": "words",
+          "lesson": "D",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0290.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-e",
+      "name": "Lesson E",
+      "items": [
+        {
+          "text": "bear",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0082.mp3"
+        },
+        {
+          "text": "Good afternoon!",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80
+        },
+        {
+          "text": "lion",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0052.mp3"
+        },
+        {
+          "text": "Miss Yang",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80
+        },
+        {
+          "text": "monkey",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0049.mp3"
+        },
+        {
+          "text": "tiger",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0050.mp3"
+        },
+        {
+          "text": "You're...",
+          "kind": "words",
+          "lesson": "E",
+          "pdfPage": 80,
+          "sourceText": "You're...=You are..."
+        }
+      ]
+    },
+    {
+      "id": "lesson-f",
+      "name": "Lesson F",
+      "items": [
+        {
+          "text": "bird",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0040.mp3"
+        },
+        {
+          "text": "brother",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0030.mp3"
+        },
+        {
+          "text": "cat",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0038.mp3"
+        },
+        {
+          "text": "dog",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0036.mp3"
+        },
+        {
+          "text": "get up",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0377.mp3"
+        },
+        {
+          "text": "Good night!",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80
+        },
+        {
+          "text": "go to bed",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0380.mp3"
+        },
+        {
+          "text": "OK.",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80
+        },
+        {
+          "text": "sister",
+          "kind": "words",
+          "lesson": "F",
+          "pdfPage": 80,
+          "audio": "assets/audio/word-0025.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-h",
+      "name": "Lesson H",
+      "items": [
+        {
+          "text": "Call me...",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81
+        },
+        {
+          "text": "cow",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0406.mp3"
+        },
+        {
+          "text": "duck",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0084.mp3"
+        },
+        {
+          "text": "Good evening!",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81
+        },
+        {
+          "text": "horse",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0407.mp3"
+        },
+        {
+          "text": "Millie Mouse",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "oralOnly": true
+        },
+        {
+          "text": "mouse",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0413.mp3"
+        },
+        {
+          "text": "My name's...",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81,
+          "sourceText": "My name's...=My name is..."
+        },
+        {
+          "text": "What's your name?",
+          "kind": "words",
+          "lesson": "H",
+          "pdfPage": 81
+        }
+      ]
+    },
+    {
+      "id": "lesson-i",
+      "name": "Lesson I",
+      "items": [
+        {
+          "text": "and",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81
+        },
+        {
+          "text": "clap",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "oralOnly": true
+        },
+        {
+          "text": "five",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0092.mp3"
+        },
+        {
+          "text": "four",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0097.mp3"
+        },
+        {
+          "text": "one",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0094.mp3"
+        },
+        {
+          "text": "three",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0096.mp3"
+        },
+        {
+          "text": "two",
+          "kind": "words",
+          "lesson": "I",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0095.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-j",
+      "name": "Lesson J",
+      "items": [
+        {
+          "text": "eight",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0101.mp3"
+        },
+        {
+          "text": "How old are you?",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81
+        },
+        {
+          "text": "nine",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0102.mp3"
+        },
+        {
+          "text": "seven",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0100.mp3"
+        },
+        {
+          "text": "six",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0099.mp3"
+        },
+        {
+          "text": "ten",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0098.mp3"
+        },
+        {
+          "text": "zero",
+          "kind": "words",
+          "lesson": "J",
+          "pdfPage": 81
+        }
+      ]
+    },
+    {
+      "id": "lesson-k",
+      "name": "Lesson K",
+      "items": [
+        {
+          "text": "great",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "little",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "mice",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0759.mp3"
+        },
+        {
+          "text": "one boy",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "one girl",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "sing a song",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "two boys",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        },
+        {
+          "text": "two girls",
+          "kind": "words",
+          "lesson": "K",
+          "pdfPage": 81
+        }
+      ]
+    },
+    {
+      "id": "lesson-l",
+      "name": "Lesson L",
+      "items": [
+        {
+          "text": "Class is over.",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "Hands down.",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "Hands up, please!",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "listen",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0011.mp3"
+        },
+        {
+          "text": "look",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "please",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "sit",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0764.mp3"
+        },
+        {
+          "text": "Sit down, please.",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "stand",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "Stand up!",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "Thank you.",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        },
+        {
+          "text": "Who'll try?",
+          "kind": "words",
+          "lesson": "L",
+          "pdfPage": 81
+        }
+      ]
+    },
+    {
+      "id": "lesson-m",
+      "name": "Lesson M",
+      "items": [
+        {
+          "text": "Are you...?",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        },
+        {
+          "text": "fish",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0039.mp3"
+        },
+        {
+          "text": "frog",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        },
+        {
+          "text": "I'm here.",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        },
+        {
+          "text": "no",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        },
+        {
+          "text": "sorry",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81,
+          "audio": "assets/audio/word-0328.mp3"
+        },
+        {
+          "text": "tadpole",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81,
+          "oralOnly": true
+        },
+        {
+          "text": "tortoise",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81,
+          "oralOnly": true
+        },
+        {
+          "text": "Where are you?",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        },
+        {
+          "text": "yes",
+          "kind": "words",
+          "lesson": "M",
+          "pdfPage": 81
+        }
+      ]
+    },
+    {
+      "id": "lesson-n",
+      "name": "Lesson N",
+      "items": [
+        {
+          "text": "I miss you.",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82,
+          "oralOnly": true
+        },
+        {
+          "text": "I'm not...",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "I'm sorry.",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "look for",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "over there",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "See you.",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "So long.",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "That's OK.",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        },
+        {
+          "text": "Who are you?",
+          "kind": "words",
+          "lesson": "N",
+          "pdfPage": 82
+        }
+      ]
+    },
+    {
+      "id": "lesson-o",
+      "name": "Lesson O",
+      "items": [
+        {
+          "text": "blue",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0078.mp3"
+        },
+        {
+          "text": "green",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0076.mp3"
+        },
+        {
+          "text": "Here you are.",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82
+        },
+        {
+          "text": "It's...",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "sourceText": "It's...=It is...",
+          "oralOnly": true
+        },
+        {
+          "text": "orange",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0061.mp3"
+        },
+        {
+          "text": "point to",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "oralOnly": true
+        },
+        {
+          "text": "red",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0077.mp3"
+        },
+        {
+          "text": "What colour?",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82
+        },
+        {
+          "text": "yellow",
+          "kind": "words",
+          "lesson": "O",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0083.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-p",
+      "name": "Lesson P",
+      "items": [
+        {
+          "text": "black",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0090.mp3"
+        },
+        {
+          "text": "brown",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0081.mp3"
+        },
+        {
+          "text": "my partner",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "oralOnly": true
+        },
+        {
+          "text": "pink",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0087.mp3"
+        },
+        {
+          "text": "purple",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0080.mp3"
+        },
+        {
+          "text": "What's your number?",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "oralOnly": true
+        },
+        {
+          "text": "white",
+          "kind": "words",
+          "lesson": "P",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0089.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-q",
+      "name": "Lesson Q",
+      "items": [
+        {
+          "text": "big",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0028.mp3"
+        },
+        {
+          "text": "happy",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0750.mp3"
+        },
+        {
+          "text": "or",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "oralOnly": true,
+          "audio": "assets/audio/word-0152.mp3"
+        },
+        {
+          "text": "sad",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0748.mp3"
+        },
+        {
+          "text": "short",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0134.mp3"
+        },
+        {
+          "text": "small",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0034.mp3"
+        },
+        {
+          "text": "tall",
+          "kind": "words",
+          "lesson": "Q",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0055.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-r",
+      "name": "Lesson R",
+      "items": [
+        {
+          "text": "apple",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0057.mp3"
+        },
+        {
+          "text": "eat",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82,
+          "oralOnly": true,
+          "audio": "assets/audio/word-0105.mp3"
+        },
+        {
+          "text": "juicy",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82
+        },
+        {
+          "text": "like",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0035.mp3"
+        },
+        {
+          "text": "round",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82
+        },
+        {
+          "text": "sweet",
+          "kind": "words",
+          "lesson": "R",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0483.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-s",
+      "name": "Lesson S",
+      "items": [
+        {
+          "text": "banana",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0058.mp3"
+        },
+        {
+          "text": "birthday cake",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82
+        },
+        {
+          "text": "cake",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0106.mp3"
+        },
+        {
+          "text": "fruit",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0188.mp3"
+        },
+        {
+          "text": "Happy birthday to you!",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82
+        },
+        {
+          "text": "Oh dear!",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82
+        },
+        {
+          "text": "orange",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82,
+          "audio": "assets/audio/word-0061.mp3"
+        },
+        {
+          "text": "pear",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82
+        },
+        {
+          "text": "so many...",
+          "kind": "words",
+          "lesson": "S",
+          "pdfPage": 82
+        }
+      ]
+    },
+    {
+      "id": "lesson-u",
+      "name": "Lesson U",
+      "items": [
+        {
+          "text": "a piece of paper",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "Christmas card",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "Christmas tree",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "draw a picture",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "Father Christmas",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "fold",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83,
+          "oralOnly": true
+        },
+        {
+          "text": "make a Christmas card",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "Merry Christmas!",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "present",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        },
+        {
+          "text": "Same to you.",
+          "kind": "words",
+          "lesson": "U",
+          "pdfPage": 83
+        }
+      ]
+    },
+    {
+      "id": "lesson-v",
+      "name": "Lesson V",
+      "items": [
+        {
+          "text": "balloon",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "Happy New Year!",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "pencil-box",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "schoolbag",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "Thank you very much.",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "toy",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        },
+        {
+          "text": "You're welcome.",
+          "kind": "words",
+          "lesson": "V",
+          "pdfPage": 83
+        }
+      ]
+    },
+    {
+      "id": "lesson-w",
+      "name": "Lesson W",
+      "items": [
+        {
+          "text": "ear",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0003.mp3"
+        },
+        {
+          "text": "eye",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0005.mp3"
+        },
+        {
+          "text": "feet",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83
+        },
+        {
+          "text": "foot",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83
+        },
+        {
+          "text": "hand",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0004.mp3"
+        },
+        {
+          "text": "hands",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83
+        },
+        {
+          "text": "mouth",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0006.mp3"
+        },
+        {
+          "text": "nose",
+          "kind": "words",
+          "lesson": "W",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0169.mp3"
+        }
+      ]
+    },
+    {
+      "id": "lesson-x",
+      "name": "Lesson X",
+      "items": [
+        {
+          "text": "can",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0008.mp3"
+        },
+        {
+          "text": "count",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0756.mp3"
+        },
+        {
+          "text": "draw",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0088.mp3"
+        },
+        {
+          "text": "Please try.",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "oralOnly": true
+        },
+        {
+          "text": "read",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0247.mp3"
+        },
+        {
+          "text": "Really?",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "oralOnly": true
+        },
+        {
+          "text": "run",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0355.mp3"
+        },
+        {
+          "text": "write",
+          "kind": "words",
+          "lesson": "X",
+          "pdfPage": 83
+        }
+      ]
+    },
+    {
+      "id": "lesson-y",
+      "name": "Lesson Y",
+      "items": [
+        {
+          "text": "dance",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0147.mp3"
+        },
+        {
+          "text": "fly",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0300.mp3"
+        },
+        {
+          "text": "he",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0122.mp3"
+        },
+        {
+          "text": "jump",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83
+        },
+        {
+          "text": "she",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0125.mp3"
+        },
+        {
+          "text": "swim",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83,
+          "audio": "assets/audio/word-0305.mp3"
+        },
+        {
+          "text": "they",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83
+        },
+        {
+          "text": "we",
+          "kind": "words",
+          "lesson": "Y",
+          "pdfPage": 83
+        }
+      ]
+    },
+    {
+      "id": "lesson-z",
+      "name": "Lesson Z",
+      "items": [
+        {
+          "text": "can't",
+          "kind": "words",
+          "lesson": "Z",
+          "pdfPage": 83,
+          "sourceText": "can't=can not"
+        },
+        {
+          "text": "Do like this.",
+          "kind": "words",
+          "lesson": "Z",
+          "pdfPage": 83,
+          "oralOnly": true
+        },
+        {
+          "text": "now",
+          "kind": "words",
+          "lesson": "Z",
+          "pdfPage": 83,
+          "oralOnly": true,
+          "audio": "assets/audio/word-0279.mp3"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "words": 188,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 81
+  },
+  "excludedUnits": [
+    {
+      "id": "lesson-g",
+      "name": "Lesson G",
+      "reason": "The original Word List does not list entries for this lesson."
+    },
+    {
+      "id": "lesson-t",
+      "name": "Lesson T",
+      "reason": "The original Word List does not list entries for this lesson."
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": "g1-lower",
+  "name": "一年级下册",
+  "edition": "2011课标版（2021教材镜像）",
+  "sourceId": "pep-one-en-g1-lower",
+  "language": "en-US",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Unit 1",
+      "items": [
+        {
+          "text": "chair",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0338.mp3"
+        },
+        {
+          "text": "desk",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0337.mp3"
+        },
+        {
+          "text": "blackboard",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0336.mp3"
+        },
+        {
+          "text": "on",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0200.mp3"
+        },
+        {
+          "text": "under",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0206.mp3"
+        },
+        {
+          "text": "in",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0202.mp3"
+        },
+        {
+          "text": "where",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0107.mp3"
+        },
+        {
+          "text": "the",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 62
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Unit 2",
+      "items": [
+        {
+          "text": "light",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0335.mp3"
+        },
+        {
+          "text": "bed",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62
+        },
+        {
+          "text": "door",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0341.mp3"
+        },
+        {
+          "text": "box",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0203.mp3"
+        },
+        {
+          "text": "near",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62
+        },
+        {
+          "text": "behind",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0513.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Unit 3",
+      "items": [
+        {
+          "text": "plane",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0672.mp3"
+        },
+        {
+          "text": "ball",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0197.mp3"
+        },
+        {
+          "text": "doll",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0198.mp3"
+        },
+        {
+          "text": "train",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0676.mp3"
+        },
+        {
+          "text": "car",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0199.mp3"
+        },
+        {
+          "text": "bear",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0082.mp3"
+        },
+        {
+          "text": "can",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0008.mp3"
+        },
+        {
+          "text": "sure",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0647.mp3"
+        },
+        {
+          "text": "sorry",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0328.mp3"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Unit 4",
+      "items": [
+        {
+          "text": "rice",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0182.mp3"
+        },
+        {
+          "text": "noodles",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62
+        },
+        {
+          "text": "vegetable",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0184.mp3"
+        },
+        {
+          "text": "fish",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0039.mp3"
+        },
+        {
+          "text": "chicken",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0410.mp3"
+        },
+        {
+          "text": "egg",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0178.mp3"
+        },
+        {
+          "text": "hungry",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62
+        },
+        {
+          "text": "want",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0381.mp3"
+        },
+        {
+          "text": "and",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 62
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Unit 5",
+      "items": [
+        {
+          "text": "juice",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0181.mp3"
+        },
+        {
+          "text": "tea",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0481.mp3"
+        },
+        {
+          "text": "milk",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 62,
+          "audio": "assets/audio/word-0179.mp3"
+        },
+        {
+          "text": "water",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0066.mp3"
+        },
+        {
+          "text": "thirsty",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0485.mp3"
+        },
+        {
+          "text": "thanks",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 63
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Unit 6",
+      "items": [
+        {
+          "text": "shirt",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0312.mp3"
+        },
+        {
+          "text": "T-shirt",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0323.mp3"
+        },
+        {
+          "text": "skirt",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0391.mp3"
+        },
+        {
+          "text": "dress",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0314.mp3"
+        },
+        {
+          "text": "socks",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        },
+        {
+          "text": "shorts",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63,
+          "audio": "assets/audio/word-0389.mp3"
+        },
+        {
+          "text": "your",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 63
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E4%BA%BA%E6%95%99%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E5%90%B4%E6%AC%A3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C.pdf",
+    "method": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "note": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      62,
+      63
+    ],
+    "reviewMethod": "上册按PDF内嵌单元词汇表逐项核对；下册扫描词表OCR后与词表页图片逐项人工核对。包括重点词、新词和教材列出的复现词。",
+    "transformations": "规范弯引号、连字、分行词头；序数词数字括注不参与听写；页码保留PDF物理页。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "primary",
+  "counts": {
+    "words": 45,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 36
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "id": "g2-upper",
+  "name": "二年级上册",
+  "edition": "2011课标修订版（2021教材镜像）",
+  "sourceId": "fltrp-one-en-g2-upper",
+  "language": "en-GB",
+  "units": [
+    {
+      "id": "u1",
+      "name": "Module 1",
+      "items": [
+        {
+          "text": "song",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "歌曲"
+        },
+        {
+          "text": "come on",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "加油;快点"
+        },
+        {
+          "text": "team",
+          "kind": "words",
+          "lesson": "1",
+          "pdfPage": 71,
+          "meaning": "球队,运动队"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Module 2",
+      "items": [
+        {
+          "text": "meat",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "肉"
+        },
+        {
+          "text": "noodles",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "(常复)面条"
+        },
+        {
+          "text": "rice",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "米饭"
+        },
+        {
+          "text": "sweets",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "(常复)糖果"
+        },
+        {
+          "text": "children",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "(child的复数)孩子们"
+        },
+        {
+          "text": "ginger",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "*ginger",
+          "meaning": "姜"
+        },
+        {
+          "text": "nice",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "好的"
+        },
+        {
+          "text": "mm",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71
+        },
+        {
+          "text": "onion",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "sourceText": "*onion",
+          "meaning": "洋葱"
+        },
+        {
+          "text": "ice cream",
+          "kind": "words",
+          "lesson": "2",
+          "pdfPage": 71,
+          "meaning": "冰淇淋"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Module 3",
+      "items": [
+        {
+          "text": "banana",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "香蕉"
+        },
+        {
+          "text": "apple",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "苹果"
+        },
+        {
+          "text": "milk",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "奶,牛奶"
+        },
+        {
+          "text": "orange",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "柑橘,橙"
+        },
+        {
+          "text": "fruit",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "水果"
+        },
+        {
+          "text": "milkshake",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "sourceText": "*milkshake",
+          "meaning": "奶昔"
+        },
+        {
+          "text": "Here you are.",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "给你。"
+        },
+        {
+          "text": "everything",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "每件事,所有事物"
+        },
+        {
+          "text": "tomato",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "番茄,西红柿"
+        },
+        {
+          "text": "really",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "很,非常"
+        },
+        {
+          "text": "their",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "他(她/它)们的"
+        },
+        {
+          "text": "favourite",
+          "kind": "words",
+          "lesson": "3",
+          "pdfPage": 71,
+          "meaning": "最喜欢的事物"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Module 4",
+      "items": [
+        {
+          "text": "T-shirt",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "sourceText": "T-shirt T",
+          "meaning": "恤衫"
+        },
+        {
+          "text": "here's",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "sourceText": "here's = here is",
+          "meaning": "这是"
+        },
+        {
+          "text": "hm",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "嗯,唔"
+        },
+        {
+          "text": "dress",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "连衣裙"
+        },
+        {
+          "text": "too",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "太......"
+        },
+        {
+          "text": "one",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "一个"
+        },
+        {
+          "text": "doesn't",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "sourceText": "doesn't = does not",
+          "meaning": "不"
+        },
+        {
+          "text": "trousers",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "裤子"
+        },
+        {
+          "text": "party",
+          "kind": "words",
+          "lesson": "4",
+          "pdfPage": 71,
+          "meaning": "聚会"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Module 5",
+      "items": [
+        {
+          "text": "get up",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "起床"
+        },
+        {
+          "text": "poster",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "sourceText": "*poster",
+          "meaning": "海报,招贴画"
+        },
+        {
+          "text": "go to school",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "去上学"
+        },
+        {
+          "text": "have",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "吃,喝"
+        },
+        {
+          "text": "lunch",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "午餐"
+        },
+        {
+          "text": "have lunch",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "吃午餐"
+        },
+        {
+          "text": "home",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "家"
+        },
+        {
+          "text": "go home",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "回家"
+        },
+        {
+          "text": "watch",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "观看"
+        },
+        {
+          "text": "TV",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "电视;电视机"
+        },
+        {
+          "text": "watch TV",
+          "kind": "words",
+          "lesson": "5",
+          "pdfPage": 71,
+          "meaning": "看电视"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "name": "Module 6",
+      "items": [
+        {
+          "text": "on",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "在......的时候"
+        },
+        {
+          "text": "Sunday",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "星期日"
+        },
+        {
+          "text": "park",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "公园"
+        },
+        {
+          "text": "great",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "太好了,好极了"
+        },
+        {
+          "text": "goal",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "sourceText": "*goal",
+          "meaning": "进球,得分"
+        },
+        {
+          "text": "hooray",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "(表示激动与高兴的呼喊声)好,好哇"
+        },
+        {
+          "text": "live",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "居住"
+        },
+        {
+          "text": "moon",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "月亮"
+        },
+        {
+          "text": "sky",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "天,天空"
+        },
+        {
+          "text": "city",
+          "kind": "words",
+          "lesson": "6",
+          "pdfPage": 71,
+          "meaning": "城市"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "name": "Module 7",
+      "items": [
+        {
+          "text": "how",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "怎样,如何"
+        },
+        {
+          "text": "train",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "火车"
+        },
+        {
+          "text": "chug",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(发动机)发出咔嚓声"
+        },
+        {
+          "text": "bus",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "公共汽车"
+        },
+        {
+          "text": "beep",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(汽车喇叭) 嘟嘟声"
+        },
+        {
+          "text": "by",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "乘,坐(交通工具)"
+        },
+        {
+          "text": "walk",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "步行"
+        },
+        {
+          "text": "How about...?",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "sourceText": "How about...? ......",
+          "meaning": "怎么样?"
+        },
+        {
+          "text": "goes",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "(go的第三人称单数形式)去"
+        },
+        {
+          "text": "work",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "工作地点;工作"
+        },
+        {
+          "text": "go to work",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "去上班"
+        },
+        {
+          "text": "bike",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "自行车"
+        },
+        {
+          "text": "with",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "与......在一起;同;跟;和"
+        },
+        {
+          "text": "run",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "跑,奔跑"
+        },
+        {
+          "text": "holiday",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "假期"
+        },
+        {
+          "text": "on holiday",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "度假"
+        },
+        {
+          "text": "then",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "然后"
+        },
+        {
+          "text": "ship",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "轮船"
+        },
+        {
+          "text": "plane",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "飞机"
+        },
+        {
+          "text": "love",
+          "kind": "words",
+          "lesson": "7",
+          "pdfPage": 72,
+          "meaning": "喜爱"
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "name": "Module 8",
+      "items": [
+        {
+          "text": "watches",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "(watch的第三人称单数形式)观看"
+        },
+        {
+          "text": "weekend",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "周末"
+        },
+        {
+          "text": "read",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "阅读"
+        },
+        {
+          "text": "come",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "来"
+        },
+        {
+          "text": "play",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "演奏(乐器)"
+        },
+        {
+          "text": "piano",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "sourceText": "*piano",
+          "meaning": "钢琴"
+        },
+        {
+          "text": "music",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "音乐"
+        },
+        {
+          "text": "listen",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "听"
+        },
+        {
+          "text": "listen to...",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "meaning": "听......"
+        },
+        {
+          "text": "CD",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "sourceText": "*CD",
+          "meaning": "激光唱片"
+        },
+        {
+          "text": "drum",
+          "kind": "words",
+          "lesson": "8",
+          "pdfPage": 72,
+          "sourceText": "*drum",
+          "meaning": "鼓"
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "name": "Module 9",
+      "items": [
+        {
+          "text": "winter",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "冬天"
+        },
+        {
+          "text": "fly",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "放飞(风筝)"
+        },
+        {
+          "text": "in",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "在......期间,在......时候"
+        },
+        {
+          "text": "spring",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "春天"
+        },
+        {
+          "text": "summer",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "夏天"
+        },
+        {
+          "text": "autumn",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "秋天"
+        },
+        {
+          "text": "skating",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "滑冰"
+        },
+        {
+          "text": "go skating",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "去滑冰"
+        },
+        {
+          "text": "warm",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "温暖的"
+        },
+        {
+          "text": "wear",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "穿,戴"
+        },
+        {
+          "text": "jacket",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "夹克,短上衣"
+        },
+        {
+          "text": "sunglasses",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "sourceText": "*sunglasses",
+          "meaning": "太阳镜"
+        },
+        {
+          "text": "cool",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "凉爽的;酷的"
+        },
+        {
+          "text": "sweater",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "毛线衫"
+        },
+        {
+          "text": "glove",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "手套"
+        },
+        {
+          "text": "cold",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "寒冷的"
+        },
+        {
+          "text": "coat",
+          "kind": "words",
+          "lesson": "9",
+          "pdfPage": 72,
+          "meaning": "外套"
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "name": "Module 10",
+      "items": [
+        {
+          "text": "year",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "年,年份"
+        },
+        {
+          "text": "Happy New Year!",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "新年快乐!"
+        },
+        {
+          "text": "come in",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "进来"
+        },
+        {
+          "text": "present",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "礼物"
+        },
+        {
+          "text": "dumpling",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "水饺"
+        },
+        {
+          "text": "eat",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "吃"
+        },
+        {
+          "text": "Chinese",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "中国的"
+        },
+        {
+          "text": "hair",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "头发"
+        },
+        {
+          "text": "firecracker",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "sourceText": "*firecracker",
+          "meaning": "鞭炮,爆竹"
+        },
+        {
+          "text": "have",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "有"
+        },
+        {
+          "text": "Christmas",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "圣诞节"
+        },
+        {
+          "text": "wish",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "祝,祝愿"
+        },
+        {
+          "text": "dinner",
+          "kind": "words",
+          "lesson": "10",
+          "pdfPage": 72,
+          "meaning": "正餐,主餐"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf/resolve/main/%E5%B0%8F%E5%AD%A6/%E8%8B%B1%E8%AF%AD/%E5%A4%96%E7%A0%94%E7%A4%BE%E7%89%88%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%EF%BC%88%E4%B8%BB%E7%BC%96%EF%BC%9A%E9%99%88%E7%90%B3%EF%BC%89/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%C2%B7%E8%8B%B1%E8%AF%AD%EF%BC%88%E4%B8%80%E5%B9%B4%E7%BA%A7%E8%B5%B7%E7%82%B9%EF%BC%89%E4%BA%8C%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf",
+    "method": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "note": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。"
+  },
+  "verification": {
+    "wordListPdfPages": [
+      71,
+      72
+    ],
+    "reviewMethod": "按PDF内嵌分Module词表逐项核对；二上mm缺少内嵌释义，以第71页图像核对补正。",
+    "transformations": "规范弯引号、连字；去除词头星号、别称括注、等号展开与中文释义标点，原文保留sourceText。",
+    "mirrorRevision": "16a3ac956f503d473ecd5d8fc53ce2a6b07402e0"
+  },
+  "versionId": "newstandard-primary",
+  "counts": {
+    "words": 116,
+    "writing": 0,
+    "recognition": 0,
+    "recognitionNew": 0,
+    "recorded": 0
+  }
+}
