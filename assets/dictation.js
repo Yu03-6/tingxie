@@ -51,6 +51,10 @@ class DictationEngine {
   }
   resume() { if (this.status !== 'paused') return; this.pausedFrom === 'waiting' ? this.wait(this.remaining) : this.play(); }
   retry() { if (this.items.length) { this.invalidate(); this.play(); } }
+  seek(index) {
+    if (!Number.isInteger(index) || index < 0 || index >= this.items.length || !['speaking', 'waiting', 'paused', 'error', 'completed'].includes(this.status)) return;
+    this.invalidate(); this.index = index; this.repetition = 1; this.play();
+  }
   skip() {
     if (!this.items.length || ['completed','stopped','idle'].includes(this.status)) return;
     const paused = this.status === 'paused'; this.invalidate(); this.repetition = 1; this.skippedCount++;

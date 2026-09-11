@@ -16,6 +16,8 @@ node --test tests/*.test.cjs
 
 Recorded MP3 files take priority. Other text uses browser speech synthesis, with a local speech fallback on failure or if speech does not start. Android WeChat selects local synthesis automatically; users can also select compatibility speech in dictation settings. Local synthesis runs in an independent worker and returns WAV audio for an unlocked Web Audio context. Mandarin input is converted to numbered pinyin. Only Mandarin and US English local voices are included, so compatibility English uses US pronunciation even for books labelled en-GB. The compatibility voice is mechanical; single-character polyphones need their textbook context.
 
+The player lists the session words in playback order. Click a word to cancel the current reading or gap and resume from its first repetition, keeping the current round and timing settings. This also resumes paused sessions and allows replay from a completed session. Hidden answers remain hidden in the list; numbered buttons still allow navigation.
+
 The page must stay in the foreground. Desktop browser verification does not establish behavior on a physical Android or iOS WeChat device.
 
 ## Third-party components
