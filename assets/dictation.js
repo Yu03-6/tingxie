@@ -6,13 +6,13 @@ class DictationEngine {
     this.clock = { now: () => Date.now(), set: (fn, ms) => setTimeout(fn, ms), clear: id => clearTimeout(id), ...clock };
     this.status = 'idle'; this.epoch = 0; this.items = []; this.timer = null;
   }
-  snapshot() { return { status: this.status, index: this.index || 0, round: this.round || 1, repetition: this.repetition || 1, total: this.items.length, message: this.message || '' }; }
+  snapshot() { return { status: this.status, index: this.index || 0, round: this.round || 1, repetition: this.repetition || 1, total: this.items.length, message: this.message || '', spokenCount: this.spokenCount || 0, skippedCount: this.skippedCount || 0 }; }
   emit() { this.notify(this.snapshot()); }
   clearTimer() { if (this.timer !== null) this.clock.clear(this.timer); this.timer = null; }
   invalidate() { this.epoch++; this.clearTimer(); this.transport.stop(); }
   start(items, config) {
     this.invalidate(); this.items = [...items]; this.config = config;
-    this.index = 0; this.round = 1; this.repetition = 1; this.message = '';
+    this.index = 0; this.round = 1; this.repetition = 1; this.message = ''; this.spokenCount = 0; this.skippedCount = 0;
     if (!items.length) { this.status = 'idle'; this.emit(); return; }
     this.play();
   }
@@ -20,7 +20,7 @@ class DictationEngine {
     this.status = 'speaking'; this.message = ''; const token = ++this.epoch; this.emit();
     this.transport.play(this.items[this.index], this.config.rate, () => {
       if (token !== this.epoch || this.status !== 'speaking') return;
-      this.advance();
+      this.spokenCount++; this.advance();
     }, message => {
       if (token !== this.epoch) return;
       this.clearTimer(); this.status = 'error'; this.message = message; this.emit();
@@ -53,7 +53,7 @@ class DictationEngine {
   retry() { if (this.items.length) { this.invalidate(); this.play(); } }
   skip() {
     if (!this.items.length || ['completed','stopped','idle'].includes(this.status)) return;
-    const paused = this.status === 'paused'; this.invalidate(); this.repetition = 1;
+    const paused = this.status === 'paused'; this.invalidate(); this.repetition = 1; this.skippedCount++;
     if (this.index + 1 < this.items.length) this.index++;
     else if (this.round < this.config.rounds) { this.round++; this.index = 0; }
     else { this.status = 'completed'; this.emit(); return; }

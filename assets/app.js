@@ -1,9 +1,10 @@
 const app = document.querySelector('#app');
-const state = { subject: 'english', version: 'pep', grade: 'g3-upper', unit: 'u1', kind: 'words', items: [], origin: 'custom', customText: '', customLang: 'auto', voiceMode: 'auto', hidden: false, repeat: 2, repeatGap: 1, itemGap: 3, rounds: 1, rate: 0.9 };
+const state = { subject: 'english', version: 'pep', grade: 'g3-upper', unit: 'u1', kind: 'words', items: [], origin: 'custom', customText: null, customLang: 'auto', voiceMode: 'auto', hidden: false, repeat: 2, repeatGap: 1, itemGap: 3, rounds: 1, rate: 0.9 };
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const kindNames = { words: '词语 / 单词', writing: '写字表', recognition: '识字表' };
 const lessonLabel = x => x.lessonLabel || String(x.lesson || '').replace(/^literacy/, '识字 ').replace(/^garden/, '语文园地 ').replace(/^pinyin/, '汉语拼音 ');
 const audioIndex = new Map();
+const contentSelections = new Map();
 for (const subject of Object.values(CATALOG)) for (const version of subject.versions) for (const book of version.grades) for (const unit of book.units) for (const item of unit.items) if(item.audio) audioIndex.set(`${book.language}:${item.text.toLowerCase()}`, item.audio);
 const engine = new DictationEngine(new SpeechTransport(), () => { if (location.hash === '#player') player(); });
 function page() { return location.hash.slice(1) || 'home'; }
@@ -17,7 +18,10 @@ function find() {
   return { sub, v, g, u };
 }
 function layout(body) { app.innerHTML = body; }
-function render() { ({ home, textbook, content, custom, settings, player }[page()] || home)(); }
+function render() {
+  const routes = { home, textbook, content, custom, settings, player };
+  (Object.prototype.hasOwnProperty.call(routes, page()) ? routes[page()] : home)();
+}
 function home() {
   layout(`<section class="hero"><div><div class="eyebrow">打开即用 · 无需账号</div><h1>让每一次听写，<br>都清晰有节奏。</h1><p>输入词语，或选择已核对的教材词表。设置重复和间隔后，系统自动完成整组听写。</p><div class="actions"><button class="btn" onclick="go('custom')">自定义内容</button><button class="btn secondary" onclick="go('textbook')">选择教材</button></div></div><div class="card hero-card"><div><div class="eyebrow" style="color:#dfe3ff">教材词库</div><h2>按册次、单元练习</h2><p>语文和多版本英语按册次、单元选择。每册独立标注版次与来源，请对照手中教材。</p></div><button class="btn" onclick="go('textbook')">查看教材　→</button></div></section><section class="section"><div class="feature-grid"><div class="feature"><strong>1. 选择内容</strong><span class="muted">按教材单元选择，或输入自己的词语。</span></div><div class="feature"><strong>2. 设置节奏</strong><span class="muted">重复间隔和换词间隔分别设置。</span></div><div class="feature"><strong>3. 自动听写</strong><span class="muted">已配音词条使用 MP3，不依赖系统语音。</span></div></div></section>`);
 }
@@ -34,9 +38,13 @@ function content() {
   const {v,g,u}=find(); if(!u) return textbook();
   const kinds=[...new Set(u.items.map(x=>x.kind))]; if(!kinds.includes(state.kind))state.kind=kinds[0];
   const items=u.items.filter(x=>x.kind===state.kind);
-  layout(`<div class="crumb"><a href="#textbook">教材选择</a> / ${esc(g.name)} / ${esc(u.name)}</div><div class="card"><h2>选择听写内容</h2><div class="actions">${kinds.map(k=>`<button class="btn ${k===state.kind?'':'secondary'}" onclick="state.kind='${k}';content()">${kindNames[k]} · ${u.items.filter(x=>x.kind===k).length}</button>`).join('')}</div><p class="muted">${esc(v.name)} · ${esc(g.edition)}。${state.kind==='recognition'?'复习项不计入新识字总数；单字读音需结合课文。':'可取消勾选本次不练习的条目。'}</p><div class="actions"><button class="btn secondary" onclick="toggleAll(true)">全选</button><button class="btn ghost" onclick="toggleAll(false)">取消全选</button></div><div class="list">${items.map((x,i)=>`<label class="item"><input type="checkbox" data-i="${i}" checked><span class="item-text">${esc(x.text)}${x.meaning?`<small class="muted" style="display:block">${esc(x.meaning)}</small>`:''}${x.sourceText&&x.sourceText!==x.text?`<small class="muted" style="display:block">原书：${esc(x.sourceText)}</small>`:''}</span><span class="item-sub">${x.review?'复习项 · ':''}${x.oralOnly?'口头掌握 · ':''}PDF 第 ${x.pdfPage} 页${x.lesson&&(g.language==='zh-CN'||v.id==='newpath')?` · ${g.language==='zh-CN'?'课次':'Lesson'} ${esc(lessonLabel(x))}`:''}${x.lessonPage?` · 教材第 ${x.lessonPage} 页`:''}</span></label>`).join('')}</div><button class="btn" onclick="prepareSettings()">下一步：设置听写　→</button></div>`);
+  const selectionKey=JSON.stringify([state.subject,state.version,state.grade,state.unit,state.kind]);
+  if(!contentSelections.has(selectionKey))contentSelections.set(selectionKey,new Set(items.map((_,i)=>i)));
+  const selected=contentSelections.get(selectionKey);
+  layout(`<div class="crumb"><a href="#textbook">教材选择</a> / ${esc(g.name)} / ${esc(u.name)}</div><div class="card"><h2>选择听写内容</h2><div class="actions">${kinds.map(k=>`<button class="btn ${k===state.kind?'':'secondary'}" onclick="state.kind='${k}';content()">${kindNames[k]} · ${u.items.filter(x=>x.kind===k).length}</button>`).join('')}</div><p class="muted">${esc(v.name)} · ${esc(g.edition)}。${state.kind==='recognition'?'复习项不计入新识字总数；单字读音需结合课文。':'可取消勾选本次不练习的条目。'}</p><div class="actions"><button class="btn secondary" onclick="toggleAll(true)">全选</button><button class="btn ghost" onclick="toggleAll(false)">取消全选</button></div><div class="list">${items.map((x,i)=>`<label class="item"><input type="checkbox" data-i="${i}" ${selected.has(i)?'checked':''}><span class="item-text">${esc(x.text)}${x.meaning?`<small class="muted" style="display:block">${esc(x.meaning)}</small>`:''}${x.sourceText&&x.sourceText!==x.text?`<small class="muted" style="display:block">原书：${esc(x.sourceText)}</small>`:''}</span><span class="item-sub">${x.review?'复习项 · ':''}${x.oralOnly?'口头掌握 · ':''}PDF 第 ${x.pdfPage} 页${x.lesson&&(g.language==='zh-CN'||v.id==='newpath')?` · ${g.language==='zh-CN'?'课次':'Lesson'} ${esc(lessonLabel(x))}`:''}${x.lessonPage?` · 教材第 ${x.lessonPage} 页`:''}</span></label>`).join('')}</div><button class="btn" onclick="prepareSettings()">下一步：设置听写　→</button></div>`);
+  document.querySelectorAll('[data-i]').forEach(input=>{input.onchange=()=>{const index=Number(input.dataset.i);if(input.checked)selected.add(index);else selected.delete(index);};});
 }
-function toggleAll(value) { document.querySelectorAll('[data-i]').forEach(x=>x.checked=value); }
+function toggleAll(value) { document.querySelectorAll('[data-i]').forEach(x=>{x.checked=value;x.onchange();}); }
 function prepareSettings() {
   const {g,u}=find();const items=u.items.filter(x=>x.kind===state.kind);
   state.items=[...document.querySelectorAll('[data-i]:checked')].map(x=>({...items[Number(x.dataset.i)],language:g.language}));
@@ -44,9 +52,12 @@ function prepareSettings() {
 }
 function parseCustom(text) { return text.split(/[\n,，、;；]+/u).map(s=>s.trim()).filter(Boolean); }
 function custom() {
-  let saved=state.customText; if(!saved)try{saved=localStorage.getItem('tingxie-custom')||'';}catch{}
+  if(state.customText===null){state.customText='';try{state.customText=localStorage.getItem('tingxie-custom')||'';}catch{}}
+  const saved=state.customText;
   layout(`<div class="crumb"><a href="#home">首页</a> / 自定义</div><div class="card"><h2>输入你想听写的内容</h2><p class="muted">一行一项，也可用逗号、顿号或分号分隔。匹配词库的词优先使用已配音音频。其他内容自动选择系统语音或本地兼容语音，输入内容不会上传。</p><textarea id="customText" rows="10" aria-label="听写内容">${esc(saved)}</textarea><div class="field" style="margin-top:16px"><label for="customLang">朗读语言</label><select class="select" id="customLang"><option value="auto">自动识别</option><option value="en-US">英文</option><option value="zh-CN">中文</option></select></div><div class="field" style="margin-top:16px"><label for="voiceMode">播放方式</label><select class="select" id="voiceMode"><option value="auto">自动选择</option><option value="local">兼容语音（无声时选择）</option></select><small class="muted">兼容语音首次使用需加载组件，音色较机械。</small></div><p class="muted" id="customCount"></p><div class="actions"><button class="btn" onclick="useCustom()">继续设置</button><button class="btn secondary" onclick="saveCustom()">保存到本机</button><button class="btn ghost" onclick="clearCustom()">清空</button></div></div>`);
   document.querySelector('#customLang').value=state.customLang;document.querySelector('#voiceMode').value=state.voiceMode;
+  document.querySelector('#customLang').onchange=e=>{state.customLang=e.target.value;};
+  document.querySelector('#voiceMode').onchange=e=>{state.voiceMode=e.target.value;};
   document.querySelector('#customText').oninput=()=>{state.customText=document.querySelector('#customText').value;document.querySelector('#customCount').textContent=`共 ${parseCustom(state.customText).length} 项`;};document.querySelector('#customText').oninput();
 }
 function saveCustom(){try{localStorage.setItem('tingxie-custom',document.querySelector('#customText').value);alert('已保存到本机');}catch{alert('浏览器未允许本地保存，仍可直接播放。');}}
@@ -68,7 +79,7 @@ function player(){
   if(!state.items.length)return custom();const s=engine.snapshot();const item=state.items[s.index]||state.items[0];
   const active=['speaking','waiting'].includes(s.status);const finished=s.status==='completed';
   const label={idle:'准备就绪',stopped:'准备就绪',speaking:'正在朗读',waiting:'间隔中，将自动继续',paused:'已暂停；继续时会重读当前遍',completed:'本次听写已完成',error:s.message}[s.status];
-  layout(`<div class="crumb"><a href="#settings">听写设置</a> / 自动听写</div><div class="card player"><div class="eyebrow">${finished?`已完成 ${state.rounds} 轮 · ${state.items.length} 项 · 每项 ${state.repeat} 遍`:`第 ${s.round} / ${state.rounds} 轮 · ${s.index+1} / ${state.items.length} 项 · 第 ${s.repetition} / ${state.repeat} 遍`}</div><div class="now">${state.hidden?'•••':esc(item.text)}</div><p class="muted" role="status">${esc(label)}</p><div class="progress"><span style="width:${finished?100:(s.index/state.items.length)*100}%"></span></div><div class="player-controls">${active?'<button class="btn" onclick="engine.pause()">暂停</button>':s.status==='paused'?'<button class="btn" onclick="engine.transport.unlock();engine.resume()">继续</button>':s.status==='error'?'<button class="btn" onclick="engine.transport.unlock();engine.retry()">重试当前项</button>':`<button class="btn" onclick="startSession()">${finished?'再听一轮':'开始自动听写'}</button>`}<button class="btn secondary" onclick="state.hidden=!state.hidden;player()">${state.hidden?'显示答案':'隐藏答案'}</button>${active||s.status==='paused'?'<button class="btn ghost" onclick="engine.skip()">跳过当前项</button>':''}<button class="btn ghost" onclick="engine.stop();go('settings')">结束</button></div><p class="muted" style="margin-top:24px">请保持页面在前台。首次播放需要点击开始；已配音内容通过本站音频播放。</p></div>`);
+  layout(`<div class="crumb"><a href="#settings">听写设置</a> / 自动听写</div><div class="card player"><div class="eyebrow">${finished?`已完成 ${s.spokenCount} 次朗读${s.skippedCount?` · 跳过 ${s.skippedCount} 项`:''}`:`第 ${s.round} / ${state.rounds} 轮 · ${s.index+1} / ${state.items.length} 项 · 第 ${s.repetition} / ${state.repeat} 遍`}</div><div class="now">${state.hidden?'•••':esc(item.text)}</div><p class="muted" role="status">${esc(label)}</p><div class="progress"><span style="width:${finished?100:(s.index/state.items.length)*100}%"></span></div><div class="player-controls">${active?'<button class="btn" onclick="engine.pause()">暂停</button>':s.status==='paused'?'<button class="btn" onclick="engine.transport.unlock();engine.resume()">继续</button>':s.status==='error'?'<button class="btn" onclick="engine.transport.unlock();engine.retry()">重试当前项</button>':`<button class="btn" onclick="startSession()">${finished?'再听一轮':'开始自动听写'}</button>`}<button class="btn secondary" onclick="state.hidden=!state.hidden;player()">${state.hidden?'显示答案':'隐藏答案'}</button>${active||s.status==='paused'?'<button class="btn ghost" onclick="engine.skip()">跳过当前项</button>':''}<button class="btn ghost" onclick="engine.stop();go('settings')">结束</button></div><p class="muted" style="margin-top:24px">请保持页面在前台。首次播放需要点击开始；已配音内容通过本站音频播放。</p></div>`);
 }
 document.getElementById('themeToggle').onclick=()=>document.body.classList.toggle('dark');
 render();

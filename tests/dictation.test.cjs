@@ -31,3 +31,12 @@ test('skip retains automatic mode and skips remaining repetitions',()=>{
 test('pause during speech replays current repetition without losing sequence',()=>{
  const s=setup();s.engine.start([{text:'A'}],{...config,rounds:1});s.engine.pause();s.engine.resume();s.end();s.tick(1000);s.end();assert.deepEqual(s.spoken,['A','A','A']);assert.equal(s.engine.status,'completed');
 });
+test('completion counts actual finished readings and skipped entries',()=>{
+ const s=setup();s.engine.start([{text:'A'},{text:'B'},{text:'C'}],{...config,repeat:3,rounds:1,itemGap:0});
+ const late=s.callback();s.engine.pause();s.engine.skip();late();s.engine.resume();
+ for(let i=0;i<6;i++){s.end();s.tick(1000);}
+ assert.equal(s.engine.status,'completed');
+ assert.equal(s.engine.snapshot().spokenCount,6);assert.equal(s.engine.snapshot().skippedCount,1);
+ s.engine.start([{text:'D'}],{...config,repeat:1,rounds:1});s.end();
+ assert.equal(s.engine.snapshot().spokenCount,1);assert.equal(s.engine.snapshot().skippedCount,0);
+});

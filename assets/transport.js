@@ -1,7 +1,7 @@
 class SpeechTransport {
   constructor() {
     this.audio = new Audio(); this.audio.preload = 'auto'; this.token = 0;
-    this.watchdog = null; this.utterance = null; this.local = new LocalSpeech();
+    this.watchdog = null; this.fetchController = null; this.utterance = null; this.local = new LocalSpeech();
     this.cache = new Map(); this.context = null; this.source = null;
   }
   unlock() {
@@ -12,6 +12,8 @@ class SpeechTransport {
   }
   stop() {
     this.token++; clearTimeout(this.watchdog);
+    this.fetchController?.abort(); this.fetchController = null;
+    if (this.utterance) this.utterance.onstart = this.utterance.onend = this.utterance.onerror = null;
     this.audio.onended = null; this.audio.onerror = null; this.audio.pause();
     if (this.source) { this.source.onended = null; try { this.source.stop(); } catch {} this.source.disconnect(); this.source = null; }
     if ('speechSynthesis' in window) window.speechSynthesis.cancel();
@@ -50,11 +52,15 @@ class SpeechTransport {
     };
     if (item.audio) {
       if (this.context) {
-        fetch(item.audio).then(response => {
+        const controller = new AbortController(); this.fetchController = controller;
+        this.watchdog = setTimeout(() => { controller.abort(); fail('音频加载超时，请检查网络后点击重试。'); }, 30000);
+        fetch(item.audio, { signal: controller.signal }).then(response => {
           if (!response.ok) throw new Error('音频未加载成功，请检查网络后点击重试。');
           return response.arrayBuffer();
         }).then(buffer => {
-          if (token === this.token) return this.playBuffer(buffer, rate, token, end);
+          if (token !== this.token || settled) return;
+          clearTimeout(this.watchdog); this.fetchController = null;
+          return this.playBuffer(buffer, rate, token, end);
         }).catch(error => fail(error.message));
       } else {
         this.audio.src = item.audio; this.audio.playbackRate = rate;
@@ -73,11 +79,11 @@ class SpeechTransport {
     utterance.lang = language; utterance.rate = rate; this.utterance = utterance;
     let fallingBack = false;
     const fallback = () => { if (fallingBack || token !== this.token) return; fallingBack = true; utterance.onend = null; utterance.onerror = null; local(); };
-    utterance.onstart = () => clearTimeout(this.watchdog);
+    utterance.onstart = () => { if (token === this.token) clearTimeout(this.watchdog); };
     utterance.onend = () => { this.utterance = null; end(); };
     utterance.onerror = fallback;
     this.watchdog = setTimeout(fallback, 5000);
-    window.speechSynthesis.speak(utterance);
+    try { window.speechSynthesis.speak(utterance); } catch { fallback(); }
   }
 }
 if (typeof module !== 'undefined') module.exports = { SpeechTransport };
